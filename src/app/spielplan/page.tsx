@@ -8,16 +8,11 @@ export const metadata: Metadata = {
     "Aktuelle Spielpläne, Ergebnisse und Tabelle der Mannschaften des FC Schwarzach.",
 };
 
-// Always render at request time so data is never stale
-export const dynamic = "force-dynamic";
-
-export default async function SpielplanPage() {
-  const [matchesKM, matches1b, tabelleKM, tabelle1b] = await Promise.all([
-    getSpielplan("SpielplanKM"),
-    getSpielplan("Spielplan1b"),
-    getTabelle("TabelleKM"),
-    getTabelle("Tabelle1b"),
-  ]);
+export default function SpielplanPage() {
+  const matchesKM  = getSpielplan("SpielplanKM");
+  const matches1b  = getSpielplan("Spielplan1b");
+  const tabelleKM  = getTabelle("TabelleKM");
+  const tabelle1b  = getTabelle("Tabelle1b");
 
   const ligaNameKM = tabelleKM.find((r) => r.isFCS)
     ? matchesKM.find((m) => m.liga)?.liga ?? "Tabelle"

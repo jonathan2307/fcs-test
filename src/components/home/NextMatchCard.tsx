@@ -3,10 +3,16 @@
 import Link from "next/link";
 import { motion } from "framer-motion";
 import { Calendar, Clock, MapPin, ChevronRight } from "lucide-react";
-import { matches, type Match } from "@/data/matches";
-import { formatDateLong } from "@/lib/utils";
+import type { SheetMatch } from "@/lib/sheets";
 
-function MatchCard({ match, label }: { match: Match; label: string }) {
+function formatDate(datum: string): string {
+  if (!datum) return "";
+  const [year, month, day] = datum.split("-");
+  const d = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+  return d.toLocaleDateString("de-AT", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+}
+
+function MatchCard({ match, label }: { match: SheetMatch; label: string }) {
   return (
     <div className="bg-white rounded-[5px] border border-border overflow-hidden shadow-sm">
       <div className="bg-primary h-1.5" />
@@ -19,7 +25,7 @@ function MatchCard({ match, label }: { match: Match; label: string }) {
         <div className="flex items-center justify-between gap-3 mb-5">
           <div className="text-center flex-1">
             <p className="font-heading text-lg sm:text-xl font-700 text-text uppercase leading-tight">
-              {match.homeTeam}
+              {match.heim}
             </p>
           </div>
           <div className="shrink-0">
@@ -27,7 +33,7 @@ function MatchCard({ match, label }: { match: Match; label: string }) {
           </div>
           <div className="text-center flex-1">
             <p className="font-heading text-lg sm:text-xl font-700 text-text uppercase leading-tight">
-              {match.awayTeam}
+              {match.gast}
             </p>
           </div>
         </div>
@@ -36,21 +42,23 @@ function MatchCard({ match, label }: { match: Match; label: string }) {
         <div className="flex flex-col gap-2 text-sm text-text-muted border-t border-border pt-4">
           <div className="flex items-center gap-2">
             <Calendar size={14} className="text-primary shrink-0" />
-            <span>{formatDateLong(match.date)}</span>
+            <span>{formatDate(match.datum)}</span>
           </div>
           <div className="flex items-center gap-2">
             <Clock size={14} className="text-primary shrink-0" />
-            <span>{match.time} Uhr</span>
+            <span>{match.uhrzeit} Uhr</span>
           </div>
-          <div className="flex items-center gap-2">
-            <MapPin size={14} className="text-primary shrink-0" />
-            <span>{match.venue}</span>
-          </div>
+          {match.ort && (
+            <div className="flex items-center gap-2">
+              <MapPin size={14} className="text-primary shrink-0" />
+              <span>{match.ort}</span>
+            </div>
+          )}
         </div>
 
-        <div className="mt-4 flex items-center justify-between">
+        <div className="mt-4">
           <span className="inline-block text-xs font-semibold bg-surface-alt text-text-muted px-3 py-1 rounded-[5px]">
-            {match.competition}
+            {match.liga} · Runde {match.runde}
           </span>
         </div>
       </div>
@@ -58,10 +66,12 @@ function MatchCard({ match, label }: { match: Match; label: string }) {
   );
 }
 
-export function NextMatchCard() {
-  const nextKM = matches.find((m) => !m.isFinished && m.team === "KM");
-  const next1b = matches.find((m) => !m.isFinished && m.team === "1b");
+interface Props {
+  nextKM: SheetMatch | undefined;
+  next1b: SheetMatch | undefined;
+}
 
+export function NextMatchCard({ nextKM, next1b }: Props) {
   if (!nextKM && !next1b) return null;
 
   return (

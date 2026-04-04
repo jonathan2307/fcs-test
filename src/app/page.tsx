@@ -5,6 +5,7 @@ import { NewsTeaser } from "@/components/home/NewsTeaser";
 import { StatsBar } from "@/components/home/StatsBar";
 import { SponsorsStrip } from "@/components/home/SponsorsStrip";
 import { fetchInstagramFeed } from "@/lib/instagram-feed";
+import { getSpielplan } from "@/lib/sheets";
 
 export const metadata: Metadata = {
   title: "FC Schwarzach – Fußballclub seit 1955",
@@ -15,10 +16,14 @@ export const metadata: Metadata = {
 export default async function HomePage() {
   const posts = await fetchInstagramFeed();
 
+  const today = new Date().toISOString().split("T")[0];
+  const nextKM = getSpielplan("SpielplanKM").find((m) => !m.isFinished && m.datum >= today);
+  const next1b = getSpielplan("Spielplan1b").find((m) => !m.isFinished && m.datum >= today);
+
   return (
     <>
       <Hero />
-      <NextMatchCard />
+      <NextMatchCard nextKM={nextKM} next1b={next1b} />
       <NewsTeaser posts={posts} />
       <StatsBar />
       <SponsorsStrip />

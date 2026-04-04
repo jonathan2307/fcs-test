@@ -61,31 +61,57 @@ export type SheetTableRow = {
   isFCS: boolean;
 };
 
+// ─── JSON data (written by scraper, no API call needed) ──────────────────────
+
+import spielplanKMData from "@/data/spielplan-km.json";
+import spielplan1bData from "@/data/spielplan-1b.json";
+import tabelleKMData   from "@/data/tabelle-km.json";
+import tabelle1bData   from "@/data/tabelle-1b.json";
+
+function mapSpielplan(raw: typeof spielplanKMData): SheetMatch[] {
+  return raw
+    .filter((r) => r.heim || r.gast)
+    .map((r) => ({
+      datum: r.datum ?? "",
+      uhrzeit: r.uhrzeit ?? "",
+      heim: r.heim ?? "",
+      gast: r.gast ?? "",
+      liga: r.liga ?? "",
+      runde: r.runde ?? "",
+      ort: r.ort ?? "",
+      ergebnis_heim: r.ergebnis_heim ?? "",
+      ergebnis_gast: r.ergebnis_gast ?? "",
+      isFinished: r.ergebnis_heim !== "" && r.ergebnis_gast !== "",
+      fcsIsHome: r.heim?.toLowerCase().includes("schwarzach") ?? false,
+    }));
+}
+
+function mapTabelle(raw: typeof tabelleKMData): SheetTableRow[] {
+  return raw
+    .filter((r) => r.mannschaft)
+    .map((r) => ({
+      rang: parseInt(r.rang ?? "0", 10) || 0,
+      mannschaft: r.mannschaft ?? "",
+      spiele: parseInt(r.spiele ?? "0", 10) || 0,
+      siege: parseInt(r.siege ?? "0", 10) || 0,
+      unentschieden: parseInt(r.unentschieden ?? "0", 10) || 0,
+      niederlagen: parseInt(r.niederlagen ?? "0", 10) || 0,
+      tore_plus: parseInt(r.tore_plus ?? "0", 10) || 0,
+      tore_minus: parseInt(r.tore_minus ?? "0", 10) || 0,
+      tordifferenz: parseInt(r.tordifferenz ?? "0", 10) || 0,
+      punkte: parseInt(r.punkte ?? "0", 10) || 0,
+      isFCS: r.mannschaft?.toLowerCase().includes("schwarzach") ?? false,
+    }));
+}
+
 // ─── API functions ─────────────────────────────────────────────────────────────
 
-export async function getSpielplan(tab: "SpielplanKM" | "Spielplan1b" = "SpielplanKM"): Promise<SheetMatch[]> {
-  const rows = await fetchRange(tab);
-  const objects = rowsToObjects(rows);
+export function getSpielplan(tab: "SpielplanKM" | "Spielplan1b" = "SpielplanKM"): SheetMatch[] {
+  return mapSpielplan(tab === "SpielplanKM" ? spielplanKMData : spielplan1bData);
+}
 
-  return objects
-    .filter((r) => r.heim || r.gast) // skip empty rows
-    .map((r) => {
-      const heimFilled = r.ergebnis_heim !== "" && r.ergebnis_heim !== undefined;
-      const gastFilled = r.ergebnis_gast !== "" && r.ergebnis_gast !== undefined;
-      return {
-        datum: r.datum ?? "",
-        uhrzeit: r.uhrzeit ?? "",
-        heim: r.heim ?? "",
-        gast: r.gast ?? "",
-        liga: r.liga ?? "",
-        runde: r.runde ?? "",
-        ort: r.ort ?? "",
-        ergebnis_heim: r.ergebnis_heim ?? "",
-        ergebnis_gast: r.ergebnis_gast ?? "",
-        isFinished: heimFilled && gastFilled,
-        fcsIsHome: r.heim?.toLowerCase().includes("schwarzach") ?? false,
-      };
-    });
+export function getTabelle(tab: "TabelleKM" | "Tabelle1b" = "TabelleKM"): SheetTableRow[] {
+  return mapTabelle(tab === "TabelleKM" ? tabelleKMData : tabelle1bData);
 }
 
 export type SheetPlayer = {
@@ -219,23 +245,3 @@ export async function getMannschaftsfotos(): Promise<SheetMannschaftsfoto[]> {
   }
 }
 
-export async function getTabelle(tab: "TabelleKM" | "Tabelle1b" = "TabelleKM"): Promise<SheetTableRow[]> {
-  const rows = await fetchRange(tab);
-  const objects = rowsToObjects(rows);
-
-  return objects
-    .filter((r) => r.mannschaft) // skip empty rows
-    .map((r) => ({
-      rang: parseInt(r.rang ?? "0", 10) || 0,
-      mannschaft: r.mannschaft ?? "",
-      spiele: parseInt(r.spiele ?? "0", 10) || 0,
-      siege: parseInt(r.siege ?? "0", 10) || 0,
-      unentschieden: parseInt(r.unentschieden ?? "0", 10) || 0,
-      niederlagen: parseInt(r.niederlagen ?? "0", 10) || 0,
-      tore_plus: parseInt(r.tore_plus ?? "0", 10) || 0,
-      tore_minus: parseInt(r.tore_minus ?? "0", 10) || 0,
-      tordifferenz: parseInt(r.tordifferenz ?? "0", 10) || 0,
-      punkte: parseInt(r.punkte ?? "0", 10) || 0,
-      isFCS: r.mannschaft?.toLowerCase().includes("schwarzach") ?? false,
-    }));
-}

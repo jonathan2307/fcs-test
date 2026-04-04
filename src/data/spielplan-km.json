@@ -1,0 +1,167 @@
+[
+  {
+    "datum": "2026-04-04",
+    "uhrzeit": "13:00",
+    "heim": "Austria Lustenau Juniors",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "15",
+    "ort": "",
+    "ergebnis_heim": "",
+    "ergebnis_gast": ""
+  },
+  {
+    "datum": "2026-03-28",
+    "uhrzeit": "14:00",
+    "heim": "FC Schwarzach",
+    "gast": "SCM Vandans",
+    "liga": "3. Landesklasse",
+    "runde": "14",
+    "ort": "",
+    "ergebnis_heim": "2",
+    "ergebnis_gast": "0"
+  },
+  {
+    "datum": "2025-11-08",
+    "uhrzeit": "13:45",
+    "heim": "FC Schwarzach",
+    "gast": "FC Rätia Bludenz",
+    "liga": "3. Landesklasse",
+    "runde": "13",
+    "ort": "",
+    "ergebnis_heim": "2",
+    "ergebnis_gast": "0"
+  },
+  {
+    "datum": "2025-10-31",
+    "uhrzeit": "18:00",
+    "heim": "SV Gaissau 1b",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "12",
+    "ort": "",
+    "ergebnis_heim": "0",
+    "ergebnis_gast": "1"
+  },
+  {
+    "datum": "2025-10-25",
+    "uhrzeit": "14:00",
+    "heim": "FC Schwarzach",
+    "gast": "SPG Großwalsertal 1b",
+    "liga": "3. Landesklasse",
+    "runde": "11",
+    "ort": "",
+    "ergebnis_heim": "3",
+    "ergebnis_gast": "0"
+  },
+  {
+    "datum": "2025-10-17",
+    "uhrzeit": "19:15",
+    "heim": "FC Mäder",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "10",
+    "ort": "",
+    "ergebnis_heim": "0",
+    "ergebnis_gast": "6"
+  },
+  {
+    "datum": "2025-10-11",
+    "uhrzeit": "14:00",
+    "heim": "FC Schwarzach",
+    "gast": "FC Klostertal",
+    "liga": "3. Landesklasse",
+    "runde": "9",
+    "ort": "",
+    "ergebnis_heim": "2",
+    "ergebnis_gast": "0"
+  },
+  {
+    "datum": "2025-10-05",
+    "uhrzeit": "13:30",
+    "heim": "FC Lustenau 1c",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "8",
+    "ort": "",
+    "ergebnis_heim": "3",
+    "ergebnis_gast": "4"
+  },
+  {
+    "datum": "2025-09-27",
+    "uhrzeit": "15:00",
+    "heim": "FC Schwarzach",
+    "gast": "FC BW Feldkirch Juniors",
+    "liga": "3. Landesklasse",
+    "runde": "7",
+    "ort": "",
+    "ergebnis_heim": "4",
+    "ergebnis_gast": "2"
+  },
+  {
+    "datum": "2025-09-20",
+    "uhrzeit": "14:30",
+    "heim": "FC Götzis 1b",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "6",
+    "ort": "",
+    "ergebnis_heim": "0",
+    "ergebnis_gast": "2"
+  },
+  {
+    "datum": "2025-09-13",
+    "uhrzeit": "15:00",
+    "heim": "FC Schwarzach",
+    "gast": "RW Rankweil 1b",
+    "liga": "3. Landesklasse",
+    "runde": "5",
+    "ort": "",
+    "ergebnis_heim": "1",
+    "ergebnis_gast": "2"
+  },
+  {
+    "datum": "2025-09-06",
+    "uhrzeit": "14:30",
+    "heim": "FC Sulz 1b",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "4",
+    "ort": "",
+    "ergebnis_heim": "2",
+    "ergebnis_gast": "0"
+  },
+  {
+    "datum": "2025-08-31",
+    "uhrzeit": "15:00",
+    "heim": "FC Schwarzach",
+    "gast": "SV Ludesch 1b",
+    "liga": "3. Landesklasse",
+    "runde": "3",
+    "ort": "",
+    "ergebnis_heim": "2",
+    "ergebnis_gast": "1"
+  },
+  {
+    "datum": "2025-08-23",
+    "uhrzeit": "15:00",
+    "heim": "FC Schwarzach",
+    "gast": "Austria Lustenau Juniors",
+    "liga": "3. Landesklasse",
+    "runde": "2",
+    "ort": "",
+    "ergebnis_heim": "3",
+    "ergebnis_gast": "0"
+  },
+  {
+    "datum": "2025-08-16",
+    "uhrzeit": "17:00",
+    "heim": "SCM Vandans",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "1",
+    "ort": "",
+    "ergebnis_heim": "1",
+    "ergebnis_gast": "5"
+  }
+]

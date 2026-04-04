@@ -1,0 +1,122 @@
+[
+  {
+    "rang": "1",
+    "mannschaft": "SPG Mellau/Bizau 1b",
+    "spiele": "9",
+    "siege": "7",
+    "unentschieden": "1",
+    "niederlagen": "1",
+    "tore_plus": "26",
+    "tore_minus": "15",
+    "tordifferenz": "11",
+    "punkte": "22"
+  },
+  {
+    "rang": "2",
+    "mannschaft": "VfB Bezau 1b",
+    "spiele": "9",
+    "siege": "6",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "18",
+    "tore_minus": "10",
+    "tordifferenz": "8",
+    "punkte": "19"
+  },
+  {
+    "rang": "3",
+    "mannschaft": "Hörbranz/Hohenweiler 1b",
+    "spiele": "9",
+    "siege": "6",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "41",
+    "tore_minus": "14",
+    "tordifferenz": "27",
+    "punkte": "19"
+  },
+  {
+    "rang": "4",
+    "mannschaft": "FC Au 1b",
+    "spiele": "9",
+    "siege": "5",
+    "unentschieden": "2",
+    "niederlagen": "2",
+    "tore_plus": "28",
+    "tore_minus": "15",
+    "tordifferenz": "13",
+    "punkte": "17"
+  },
+  {
+    "rang": "5",
+    "mannschaft": "FC Schwarzenberg 1b",
+    "spiele": "9",
+    "siege": "4",
+    "unentschieden": "1",
+    "niederlagen": "4",
+    "tore_plus": "14",
+    "tore_minus": "18",
+    "tordifferenz": "-4",
+    "punkte": "13"
+  },
+  {
+    "rang": "6",
+    "mannschaft": "FC Rotenberg Juniors 1c",
+    "spiele": "9",
+    "siege": "4",
+    "unentschieden": "0",
+    "niederlagen": "5",
+    "tore_plus": "20",
+    "tore_minus": "19",
+    "tordifferenz": "1",
+    "punkte": "12"
+  },
+  {
+    "rang": "7",
+    "mannschaft": "FC Hittisau 1b",
+    "spiele": "8",
+    "siege": "3",
+    "unentschieden": "1",
+    "niederlagen": "4",
+    "tore_plus": "18",
+    "tore_minus": "19",
+    "tordifferenz": "-1",
+    "punkte": "10"
+  },
+  {
+    "rang": "8",
+    "mannschaft": "Wolfurt / Kennelbach 1c",
+    "spiele": "9",
+    "siege": "2",
+    "unentschieden": "1",
+    "niederlagen": "6",
+    "tore_plus": "9",
+    "tore_minus": "26",
+    "tordifferenz": "-17",
+    "punkte": "7"
+  },
+  {
+    "rang": "9",
+    "mannschaft": "FC Schwarzach 1b",
+    "spiele": "9",
+    "siege": "2",
+    "unentschieden": "0",
+    "niederlagen": "7",
+    "tore_plus": "10",
+    "tore_minus": "20",
+    "tordifferenz": "-10",
+    "punkte": "6"
+  },
+  {
+    "rang": "10",
+    "mannschaft": "SC Mühlebach Juniors",
+    "spiele": "8",
+    "siege": "1",
+    "unentschieden": "0",
+    "niederlagen": "7",
+    "tore_plus": "10",
+    "tore_minus": "38",
+    "tordifferenz": "-28",
+    "punkte": "3"
+  }
+]

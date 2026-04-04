@@ -2,9 +2,12 @@ name: Ligaportal Scraper
 
 on:
   schedule:
-    # Täglich um 23:00 Uhr UTC+1 (Vienna) = 22:00 UTC
+    # Täglich um 23:00 Uhr Wien (= 22:00 UTC im Sommer / 21:00 UTC im Winter)
     - cron: '0 22 * * *'
   workflow_dispatch:  # Manuell auslösbar
+
+permissions:
+  contents: write  # Nötig für git push
 
 jobs:
   scrape:
@@ -32,7 +35,18 @@ jobs:
 
       - name: Run scraper
         working-directory: fc-schwarzach
-        env:
-          GOOGLE_SHEETS_ID: ${{ secrets.GOOGLE_SHEETS_ID }}
-          GOOGLE_SERVICE_ACCOUNT_KEY: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_KEY }}
         run: npx tsx scripts/scraper/index.ts
+
+      - name: Commit and push updated JSON data
+        working-directory: fc-schwarzach
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/spielplan-km.json src/data/tabelle-km.json \
+                  src/data/spielplan-1b.json src/data/tabelle-1b.json
+          if git diff --staged --quiet; then
+            echo "No data changes – nothing to commit."
+          else
+            git commit -m "chore: update spielplan + tabelle data [skip ci]"
+            git push
+          fi
