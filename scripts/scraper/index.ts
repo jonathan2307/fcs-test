@@ -47,13 +47,11 @@ function tabelleToRow(t: TabelleRow): string[] {
   ];
 }
 
-/** Check if a date string (DD.MM.YYYY) is in the past */
+/** Check if a date string (YYYY-MM-DD) is in the past */
 function isInPast(datum: string): boolean {
   if (!datum) return false;
-  const parts = datum.split('.');
-  if (parts.length !== 3) return false;
-  const [day, month, year] = parts;
-  const d = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+  const d = new Date(datum);
+  if (isNaN(d.getTime())) return false;
   return d < new Date();
 }
 
@@ -120,11 +118,8 @@ async function updateSpielplanSheet(tabName: string, scraped: SpielplanRow[]): P
 
   if (rowsToAppend.length > 0) {
     // Sort by date before appending
-    rowsToAppend.sort((a, b) => {
-      const dateA = a[COL.datum].split('.').reverse().join('');
-      const dateB = b[COL.datum].split('.').reverse().join('');
-      return dateA.localeCompare(dateB);
-    });
+    // YYYY-MM-DD sorts lexicographically
+    rowsToAppend.sort((a, b) => a[COL.datum].localeCompare(b[COL.datum]));
     await appendRows(tabName, rowsToAppend);
     console.log(`  Added ${newCount} new game(s)`);
   }

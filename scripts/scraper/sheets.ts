@@ -54,6 +54,37 @@ export async function updateRow(tabName: string, rowIndex: number, values: strin
   });
 }
 
+/** Delete a range of rows from a sheet tab (1-based, inclusive) */
+export async function deleteRows(tabName: string, startRow: number, endRow: number): Promise<void> {
+  const auth = getAuth();
+  const sheets = google.sheets({ version: 'v4', auth });
+
+  // Get the sheetId for the named tab
+  const meta = await sheets.spreadsheets.get({
+    spreadsheetId: getSheetId(),
+    fields: 'sheets.properties(title,sheetId)',
+  });
+  const sheet = meta.data.sheets?.find(s => s.properties?.title === tabName);
+  if (!sheet?.properties) throw new Error(`Tab "${tabName}" not found in sheet`);
+  const sheetId = sheet.properties.sheetId!;
+
+  await sheets.spreadsheets.batchUpdate({
+    spreadsheetId: getSheetId(),
+    requestBody: {
+      requests: [{
+        deleteDimension: {
+          range: {
+            sheetId,
+            dimension: 'ROWS',
+            startIndex: startRow - 1,  // 0-based, inclusive
+            endIndex: endRow,          // 0-based, exclusive
+          },
+        },
+      }],
+    },
+  });
+}
+
 /** Overwrite all data in a sheet tab (keeps header, replaces all data rows) */
 export async function overwriteSheet(tabName: string, header: string[], rows: string[][]): Promise<void> {
   const auth = getAuth();

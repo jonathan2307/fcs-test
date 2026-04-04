@@ -1,7 +1,7 @@
 import { Page } from 'playwright';
 
 export interface SpielplanRow {
-  datum: string;      // DD.MM.YYYY
+  datum: string;      // YYYY-MM-DD
   uhrzeit: string;   // HH:MM
   heim: string;
   gast: string;
@@ -40,7 +40,7 @@ function parseDateTime(raw: string): { datum: string; uhrzeit: string } {
   }
 
   return {
-    datum: `${day}.${match[2]}.${year}`,
+    datum: `${year}-${match[2]}-${day}`,
     uhrzeit,
   };
 }
