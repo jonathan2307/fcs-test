@@ -17,10 +17,16 @@ const URLS = {
 
 const DATA_DIR = join(process.cwd(), 'src', 'data');
 
-function writeJson(filename: string, data: unknown): void {
+function writeJson(filename: string, data: unknown[]): void {
+  if (data.length === 0) {
+    // Safety: never overwrite with empty data — could be a season transition
+    // or a temporary scraping failure. Keep existing file.
+    console.warn(`  SKIPPED ${filename} — 0 rows found, keeping existing data.`);
+    return;
+  }
   mkdirSync(DATA_DIR, { recursive: true });
   writeFileSync(join(DATA_DIR, filename), JSON.stringify(data, null, 2), 'utf-8');
-  console.log(`  Wrote ${filename} (${Array.isArray(data) ? data.length + ' rows' : ''})`);
+  console.log(`  Wrote ${filename} (${data.length} rows)`);
 }
 
 async function main() {

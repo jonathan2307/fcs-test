@@ -1,5 +1,4 @@
 import type { MetadataRoute } from "next";
-import { news } from "@/data/news";
 import { teams } from "@/data/players";
 
 const BASE_URL = "https://www.fc-schwarzach.at";
@@ -16,13 +15,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${BASE_URL}/impressum`,     lastModified: new Date(), priority: 0.3,  changeFrequency: "yearly"  },
   ];
 
-  const newsRoutes: MetadataRoute.Sitemap = news.map((article) => ({
-    url: `${BASE_URL}/news/${article.slug}`,
-    lastModified: new Date(article.date),
-    priority: 0.7,
-    changeFrequency: "never",
-  }));
-
   const teamRoutes: MetadataRoute.Sitemap = teams.map((team) => ({
     url: `${BASE_URL}/mannschaften/${team.id}`,
     lastModified: new Date(),
@@ -30,5 +22,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: "monthly",
   }));
 
-  return [...staticRoutes, ...newsRoutes, ...teamRoutes];
+  return [...staticRoutes, ...teamRoutes];
 }
