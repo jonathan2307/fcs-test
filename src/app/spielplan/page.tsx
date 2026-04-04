@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { getSpielplan, getTabelle } from "@/lib/sheets";
 import { SpielplanClient } from "@/components/spielplan/SpielplanClient";
+import { JsonLd } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "Spielplan & Ergebnisse",
@@ -21,8 +22,27 @@ export default function SpielplanPage() {
     ? matches1b.find((m) => m.liga)?.liga ?? "Tabelle"
     : "Tabelle";
 
+  const today = new Date().toISOString().split("T")[0];
+  const upcomingEvents = [...matchesKM, ...matches1b]
+    .filter((m) => !m.isFinished && m.datum >= today)
+    .map((m) => ({
+      "@type": "SportsEvent",
+      name: `${m.heim} vs ${m.gast}`,
+      startDate: `${m.datum}T${m.uhrzeit || "00:00"}`,
+      sport: "Fußball",
+      description: `${m.liga} – Runde ${m.runde}`,
+      competitor: [
+        { "@type": "SportsTeam", name: m.heim },
+        { "@type": "SportsTeam", name: m.gast },
+      ],
+      ...(m.ort ? { location: { "@type": "Place", name: m.ort } } : {}),
+    }));
+
   return (
     <div className="pt-16 min-h-screen bg-background">
+      {upcomingEvents.length > 0 && (
+        <JsonLd data={{ "@context": "https://schema.org", "@graph": upcomingEvents }} />
+      )}
       {/* Header */}
       <div className="bg-primary py-14">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

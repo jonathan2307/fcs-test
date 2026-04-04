@@ -6,6 +6,7 @@ import { StatsBar } from "@/components/home/StatsBar";
 import { SponsorsStrip } from "@/components/home/SponsorsStrip";
 import { fetchInstagramFeed } from "@/lib/instagram-feed";
 import { getSpielplan } from "@/lib/sheets";
+import { JsonLd } from "@/components/JsonLd";
 
 export const metadata: Metadata = {
   title: "FC Schwarzach – Fußballclub seit 1955",
@@ -22,6 +23,20 @@ export default async function HomePage() {
 
   return (
     <>
+      <JsonLd data={{
+        "@context": "https://schema.org",
+        "@type": "SportsTeam",
+        name: "FC Schwarzach",
+        url: "https://www.fc-schwarzach.at",
+        foundingDate: "1955",
+        sport: "Fußball",
+        location: {
+          "@type": "Place",
+          name: "Schwarzach, Vorarlberg",
+          address: { "@type": "PostalAddress", addressLocality: "Schwarzach", addressCountry: "AT" },
+        },
+        memberOf: { "@type": "SportsOrganization", name: "Vorarlberger Fußballverband" },
+      }} />
       <Hero />
       <NextMatchCard nextKM={nextKM} next1b={next1b} />
       <NewsTeaser posts={posts} />
