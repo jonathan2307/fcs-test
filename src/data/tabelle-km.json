@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "FC Rätia Bludenz",
-    "spiele": "15",
+    "spiele": "16",
     "siege": "14",
-    "unentschieden": "0",
+    "unentschieden": "1",
     "niederlagen": "1",
-    "tore_plus": "57",
-    "tore_minus": "10",
+    "tore_plus": "59",
+    "tore_minus": "12",
     "tordifferenz": "47",
-    "punkte": "42"
+    "punkte": "43"
   },
   {
     "rang": "2",
@@ -62,14 +62,14 @@
   {
     "rang": "6",
     "mannschaft": "RW Rankweil 1b",
-    "spiele": "15",
+    "spiele": "16",
     "siege": "7",
-    "unentschieden": "2",
+    "unentschieden": "3",
     "niederlagen": "6",
-    "tore_plus": "47",
-    "tore_minus": "31",
+    "tore_plus": "49",
+    "tore_minus": "33",
     "tordifferenz": "16",
-    "punkte": "23"
+    "punkte": "24"
   },
   {
     "rang": "7",
@@ -121,6 +121,18 @@
   },
   {
     "rang": "11",
+    "mannschaft": "FC Lustenau 1c",
+    "spiele": "16",
+    "siege": "5",
+    "unentschieden": "0",
+    "niederlagen": "11",
+    "tore_plus": "33",
+    "tore_minus": "52",
+    "tordifferenz": "-19",
+    "punkte": "15"
+  },
+  {
+    "rang": "12",
     "mannschaft": "FC Götzis 1b",
     "spiele": "15",
     "siege": "4",
@@ -132,7 +144,7 @@
     "punkte": "13"
   },
   {
-    "rang": "12",
+    "rang": "13",
     "mannschaft": "FC BW Feldkirch Juniors",
     "spiele": "16",
     "siege": "3",
@@ -144,27 +156,15 @@
     "punkte": "12"
   },
   {
-    "rang": "13",
-    "mannschaft": "FC Lustenau 1c",
-    "spiele": "15",
-    "siege": "4",
-    "unentschieden": "0",
-    "niederlagen": "11",
-    "tore_plus": "29",
-    "tore_minus": "51",
-    "tordifferenz": "-22",
-    "punkte": "12"
-  },
-  {
     "rang": "14",
     "mannschaft": "FC Mäder",
-    "spiele": "15",
+    "spiele": "16",
     "siege": "0",
     "unentschieden": "3",
-    "niederlagen": "12",
-    "tore_plus": "11",
-    "tore_minus": "68",
-    "tordifferenz": "-57",
+    "niederlagen": "13",
+    "tore_plus": "12",
+    "tore_minus": "72",
+    "tordifferenz": "-60",
     "punkte": "3"
   }
 ]
