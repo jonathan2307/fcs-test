@@ -37,18 +37,6 @@
   },
   {
     "rang": "4",
-    "mannschaft": "SCM Vandans",
-    "spiele": "16",
-    "siege": "8",
-    "unentschieden": "4",
-    "niederlagen": "4",
-    "tore_plus": "45",
-    "tore_minus": "28",
-    "tordifferenz": "17",
-    "punkte": "28"
-  },
-  {
-    "rang": "5",
     "mannschaft": "SV Ludesch 1b",
     "spiele": "16",
     "siege": "8",
@@ -57,6 +45,18 @@
     "tore_plus": "44",
     "tore_minus": "22",
     "tordifferenz": "22",
+    "punkte": "28"
+  },
+  {
+    "rang": "5",
+    "mannschaft": "SCM Vandans",
+    "spiele": "16",
+    "siege": "8",
+    "unentschieden": "4",
+    "niederlagen": "4",
+    "tore_plus": "45",
+    "tore_minus": "28",
+    "tordifferenz": "17",
     "punkte": "28"
   },
   {
@@ -85,18 +85,6 @@
   },
   {
     "rang": "8",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "16",
-    "siege": "6",
-    "unentschieden": "3",
-    "niederlagen": "7",
-    "tore_plus": "28",
-    "tore_minus": "36",
-    "tordifferenz": "-8",
-    "punkte": "21"
-  },
-  {
-    "rang": "9",
     "mannschaft": "FC Sulz 1b",
     "spiele": "16",
     "siege": "6",
@@ -105,6 +93,18 @@
     "tore_plus": "26",
     "tore_minus": "27",
     "tordifferenz": "-1",
+    "punkte": "21"
+  },
+  {
+    "rang": "9",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "16",
+    "siege": "6",
+    "unentschieden": "3",
+    "niederlagen": "7",
+    "tore_plus": "28",
+    "tore_minus": "36",
+    "tordifferenz": "-8",
     "punkte": "21"
   },
   {
