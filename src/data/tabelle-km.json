@@ -37,18 +37,6 @@
   },
   {
     "rang": "4",
-    "mannschaft": "SV Ludesch 1b",
-    "spiele": "16",
-    "siege": "8",
-    "unentschieden": "4",
-    "niederlagen": "4",
-    "tore_plus": "44",
-    "tore_minus": "22",
-    "tordifferenz": "22",
-    "punkte": "28"
-  },
-  {
-    "rang": "5",
     "mannschaft": "SCM Vandans",
     "spiele": "16",
     "siege": "8",
@@ -57,6 +45,18 @@
     "tore_plus": "45",
     "tore_minus": "28",
     "tordifferenz": "17",
+    "punkte": "28"
+  },
+  {
+    "rang": "5",
+    "mannschaft": "SV Ludesch 1b",
+    "spiele": "16",
+    "siege": "8",
+    "unentschieden": "4",
+    "niederlagen": "4",
+    "tore_plus": "44",
+    "tore_minus": "22",
+    "tordifferenz": "22",
     "punkte": "28"
   },
   {
@@ -74,17 +74,29 @@
   {
     "rang": "7",
     "mannschaft": "FC Klostertal",
-    "spiele": "16",
+    "spiele": "17",
     "siege": "7",
-    "unentschieden": "1",
+    "unentschieden": "2",
     "niederlagen": "8",
-    "tore_plus": "31",
-    "tore_minus": "41",
+    "tore_plus": "32",
+    "tore_minus": "42",
     "tordifferenz": "-10",
-    "punkte": "22"
+    "punkte": "23"
   },
   {
     "rang": "8",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "17",
+    "siege": "6",
+    "unentschieden": "3",
+    "niederlagen": "8",
+    "tore_plus": "28",
+    "tore_minus": "38",
+    "tordifferenz": "-10",
+    "punkte": "21"
+  },
+  {
+    "rang": "9",
     "mannschaft": "FC Sulz 1b",
     "spiele": "16",
     "siege": "6",
@@ -93,18 +105,6 @@
     "tore_plus": "26",
     "tore_minus": "27",
     "tordifferenz": "-1",
-    "punkte": "21"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "16",
-    "siege": "6",
-    "unentschieden": "3",
-    "niederlagen": "7",
-    "tore_plus": "28",
-    "tore_minus": "36",
-    "tordifferenz": "-8",
     "punkte": "21"
   },
   {
@@ -121,6 +121,18 @@
   },
   {
     "rang": "11",
+    "mannschaft": "FC BW Feldkirch Juniors",
+    "spiele": "17",
+    "siege": "4",
+    "unentschieden": "3",
+    "niederlagen": "10",
+    "tore_plus": "33",
+    "tore_minus": "44",
+    "tordifferenz": "-11",
+    "punkte": "15"
+  },
+  {
+    "rang": "12",
     "mannschaft": "FC Lustenau 1c",
     "spiele": "16",
     "siege": "5",
@@ -132,7 +144,7 @@
     "punkte": "15"
   },
   {
-    "rang": "12",
+    "rang": "13",
     "mannschaft": "FC Götzis 1b",
     "spiele": "15",
     "siege": "4",
@@ -144,27 +156,15 @@
     "punkte": "13"
   },
   {
-    "rang": "13",
-    "mannschaft": "FC BW Feldkirch Juniors",
-    "spiele": "16",
-    "siege": "3",
-    "unentschieden": "3",
-    "niederlagen": "10",
-    "tore_plus": "31",
-    "tore_minus": "44",
-    "tordifferenz": "-13",
-    "punkte": "12"
-  },
-  {
     "rang": "14",
     "mannschaft": "FC Mäder",
-    "spiele": "16",
+    "spiele": "17",
     "siege": "0",
-    "unentschieden": "3",
+    "unentschieden": "4",
     "niederlagen": "13",
-    "tore_plus": "12",
-    "tore_minus": "72",
+    "tore_plus": "13",
+    "tore_minus": "73",
     "tordifferenz": "-60",
-    "punkte": "3"
+    "punkte": "4"
   }
 ]
