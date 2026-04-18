@@ -2,38 +2,38 @@
   {
     "rang": "1",
     "mannschaft": "FC Rätia Bludenz",
-    "spiele": "16",
-    "siege": "14",
+    "spiele": "17",
+    "siege": "15",
     "unentschieden": "1",
     "niederlagen": "1",
-    "tore_plus": "59",
-    "tore_minus": "12",
-    "tordifferenz": "47",
-    "punkte": "43"
+    "tore_plus": "62",
+    "tore_minus": "13",
+    "tordifferenz": "49",
+    "punkte": "46"
   },
   {
     "rang": "2",
     "mannschaft": "FC Schwarzach",
-    "spiele": "16",
+    "spiele": "17",
     "siege": "12",
     "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "39",
-    "tore_minus": "14",
-    "tordifferenz": "25",
+    "niederlagen": "4",
+    "tore_plus": "40",
+    "tore_minus": "18",
+    "tordifferenz": "22",
     "punkte": "37"
   },
   {
     "rang": "3",
     "mannschaft": "Austria Lustenau Juniors",
-    "spiele": "16",
-    "siege": "9",
+    "spiele": "17",
+    "siege": "10",
     "unentschieden": "5",
     "niederlagen": "2",
-    "tore_plus": "52",
-    "tore_minus": "32",
-    "tordifferenz": "20",
-    "punkte": "32"
+    "tore_plus": "55",
+    "tore_minus": "34",
+    "tordifferenz": "21",
+    "punkte": "35"
   },
   {
     "rang": "4",
@@ -50,17 +50,29 @@
   {
     "rang": "5",
     "mannschaft": "SV Ludesch 1b",
-    "spiele": "16",
+    "spiele": "17",
     "siege": "8",
     "unentschieden": "4",
-    "niederlagen": "4",
-    "tore_plus": "44",
-    "tore_minus": "22",
-    "tordifferenz": "22",
+    "niederlagen": "5",
+    "tore_plus": "46",
+    "tore_minus": "25",
+    "tordifferenz": "21",
     "punkte": "28"
   },
   {
     "rang": "6",
+    "mannschaft": "FC Sulz 1b",
+    "spiele": "17",
+    "siege": "7",
+    "unentschieden": "3",
+    "niederlagen": "7",
+    "tore_plus": "30",
+    "tore_minus": "28",
+    "tordifferenz": "2",
+    "punkte": "24"
+  },
+  {
+    "rang": "7",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "16",
     "siege": "7",
@@ -72,7 +84,7 @@
     "punkte": "24"
   },
   {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "FC Klostertal",
     "spiele": "17",
     "siege": "7",
@@ -84,7 +96,7 @@
     "punkte": "23"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "SV Gaissau 1b",
     "spiele": "17",
     "siege": "6",
@@ -96,28 +108,16 @@
     "punkte": "21"
   },
   {
-    "rang": "9",
-    "mannschaft": "FC Sulz 1b",
-    "spiele": "16",
-    "siege": "6",
-    "unentschieden": "3",
-    "niederlagen": "7",
-    "tore_plus": "26",
-    "tore_minus": "27",
-    "tordifferenz": "-1",
-    "punkte": "21"
-  },
-  {
     "rang": "10",
     "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "15",
-    "siege": "5",
+    "spiele": "16",
+    "siege": "6",
     "unentschieden": "2",
     "niederlagen": "8",
-    "tore_plus": "27",
-    "tore_minus": "35",
-    "tordifferenz": "-8",
-    "punkte": "17"
+    "tore_plus": "30",
+    "tore_minus": "37",
+    "tordifferenz": "-7",
+    "punkte": "20"
   },
   {
     "rang": "11",
@@ -134,25 +134,25 @@
   {
     "rang": "12",
     "mannschaft": "FC Lustenau 1c",
-    "spiele": "16",
+    "spiele": "17",
     "siege": "5",
     "unentschieden": "0",
-    "niederlagen": "11",
-    "tore_plus": "33",
-    "tore_minus": "52",
-    "tordifferenz": "-19",
+    "niederlagen": "12",
+    "tore_plus": "35",
+    "tore_minus": "55",
+    "tordifferenz": "-20",
     "punkte": "15"
   },
   {
     "rang": "13",
     "mannschaft": "FC Götzis 1b",
-    "spiele": "15",
+    "spiele": "16",
     "siege": "4",
     "unentschieden": "1",
-    "niederlagen": "10",
-    "tore_plus": "22",
-    "tore_minus": "50",
-    "tordifferenz": "-28",
+    "niederlagen": "11",
+    "tore_plus": "23",
+    "tore_minus": "53",
+    "tordifferenz": "-30",
     "punkte": "13"
   },
   {
