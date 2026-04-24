@@ -26,13 +26,13 @@
   {
     "rang": "3",
     "mannschaft": "Austria Lustenau Juniors",
-    "spiele": "17",
+    "spiele": "18",
     "siege": "10",
     "unentschieden": "5",
-    "niederlagen": "2",
-    "tore_plus": "55",
-    "tore_minus": "34",
-    "tordifferenz": "21",
+    "niederlagen": "3",
+    "tore_plus": "56",
+    "tore_minus": "36",
+    "tordifferenz": "20",
     "punkte": "35"
   },
   {
@@ -158,13 +158,13 @@
   {
     "rang": "14",
     "mannschaft": "FC Mäder",
-    "spiele": "17",
-    "siege": "0",
+    "spiele": "18",
+    "siege": "1",
     "unentschieden": "4",
     "niederlagen": "13",
-    "tore_plus": "13",
-    "tore_minus": "73",
-    "tordifferenz": "-60",
-    "punkte": "4"
+    "tore_plus": "15",
+    "tore_minus": "74",
+    "tordifferenz": "-59",
+    "punkte": "7"
   }
 ]
