@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "SPG Mellau/Bizau 1b",
-    "spiele": "11",
-    "siege": "8",
+    "spiele": "12",
+    "siege": "9",
     "unentschieden": "2",
     "niederlagen": "1",
-    "tore_plus": "29",
+    "tore_plus": "31",
     "tore_minus": "16",
-    "tordifferenz": "13",
-    "punkte": "26"
+    "tordifferenz": "15",
+    "punkte": "29"
   },
   {
     "rang": "2",
@@ -38,37 +38,37 @@
   {
     "rang": "4",
     "mannschaft": "FC Au 1b",
-    "spiele": "11",
+    "spiele": "12",
     "siege": "6",
     "unentschieden": "3",
-    "niederlagen": "2",
+    "niederlagen": "3",
     "tore_plus": "32",
-    "tore_minus": "17",
-    "tordifferenz": "15",
+    "tore_minus": "19",
+    "tordifferenz": "13",
     "punkte": "21"
   },
   {
     "rang": "5",
     "mannschaft": "FC Schwarzenberg 1b",
-    "spiele": "12",
-    "siege": "5",
+    "spiele": "13",
+    "siege": "6",
     "unentschieden": "2",
     "niederlagen": "5",
-    "tore_plus": "20",
-    "tore_minus": "23",
-    "tordifferenz": "-3",
-    "punkte": "17"
+    "tore_plus": "25",
+    "tore_minus": "25",
+    "tordifferenz": "0",
+    "punkte": "20"
   },
   {
     "rang": "6",
     "mannschaft": "FC Hittisau 1b",
-    "spiele": "10",
+    "spiele": "11",
     "siege": "4",
     "unentschieden": "1",
-    "niederlagen": "5",
-    "tore_plus": "22",
-    "tore_minus": "24",
-    "tordifferenz": "-2",
+    "niederlagen": "6",
+    "tore_plus": "24",
+    "tore_minus": "29",
+    "tordifferenz": "-5",
     "punkte": "13"
   },
   {
