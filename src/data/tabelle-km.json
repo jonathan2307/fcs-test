@@ -14,26 +14,26 @@
   {
     "rang": "2",
     "mannschaft": "FC Schwarzach",
-    "spiele": "18",
-    "siege": "13",
+    "spiele": "19",
+    "siege": "14",
     "unentschieden": "1",
     "niederlagen": "4",
-    "tore_plus": "42",
+    "tore_plus": "50",
     "tore_minus": "19",
-    "tordifferenz": "23",
-    "punkte": "40"
+    "tordifferenz": "31",
+    "punkte": "43"
   },
   {
     "rang": "3",
     "mannschaft": "Austria Lustenau Juniors",
-    "spiele": "18",
-    "siege": "10",
+    "spiele": "19",
+    "siege": "11",
     "unentschieden": "5",
     "niederlagen": "3",
-    "tore_plus": "56",
+    "tore_plus": "60",
     "tore_minus": "36",
-    "tordifferenz": "20",
-    "punkte": "35"
+    "tordifferenz": "24",
+    "punkte": "38"
   },
   {
     "rang": "4",
@@ -73,39 +73,39 @@
   },
   {
     "rang": "7",
-    "mannschaft": "FC Klostertal",
-    "spiele": "18",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "19",
     "siege": "8",
-    "unentschieden": "2",
+    "unentschieden": "3",
     "niederlagen": "8",
-    "tore_plus": "35",
-    "tore_minus": "42",
+    "tore_plus": "34",
+    "tore_minus": "41",
     "tordifferenz": "-7",
-    "punkte": "26"
+    "punkte": "27"
   },
   {
     "rang": "8",
-    "mannschaft": "FC Sulz 1b",
-    "spiele": "18",
-    "siege": "7",
-    "unentschieden": "4",
-    "niederlagen": "7",
-    "tore_plus": "31",
-    "tore_minus": "29",
-    "tordifferenz": "2",
-    "punkte": "25"
+    "mannschaft": "FC Klostertal",
+    "spiele": "19",
+    "siege": "8",
+    "unentschieden": "2",
+    "niederlagen": "9",
+    "tore_plus": "36",
+    "tore_minus": "44",
+    "tordifferenz": "-8",
+    "punkte": "26"
   },
   {
     "rang": "9",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "18",
+    "mannschaft": "FC Sulz 1b",
+    "spiele": "19",
     "siege": "7",
-    "unentschieden": "3",
+    "unentschieden": "4",
     "niederlagen": "8",
-    "tore_plus": "32",
-    "tore_minus": "40",
-    "tordifferenz": "-8",
-    "punkte": "24"
+    "tore_plus": "31",
+    "tore_minus": "33",
+    "tordifferenz": "-2",
+    "punkte": "25"
   },
   {
     "rang": "10",
@@ -134,13 +134,13 @@
   {
     "rang": "12",
     "mannschaft": "FC Götzis 1b",
-    "spiele": "18",
+    "spiele": "19",
     "siege": "5",
     "unentschieden": "1",
-    "niederlagen": "12",
+    "niederlagen": "13",
     "tore_plus": "28",
-    "tore_minus": "56",
-    "tordifferenz": "-28",
+    "tore_minus": "64",
+    "tordifferenz": "-36",
     "punkte": "16"
   },
   {

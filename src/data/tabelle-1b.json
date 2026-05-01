@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "SPG Mellau/Bizau 1b",
-    "spiele": "12",
-    "siege": "9",
+    "spiele": "13",
+    "siege": "10",
     "unentschieden": "2",
     "niederlagen": "1",
-    "tore_plus": "31",
-    "tore_minus": "16",
-    "tordifferenz": "15",
-    "punkte": "29"
+    "tore_plus": "37",
+    "tore_minus": "18",
+    "tordifferenz": "19",
+    "punkte": "32"
   },
   {
     "rang": "2",
@@ -38,14 +38,14 @@
   {
     "rang": "4",
     "mannschaft": "FC Au 1b",
-    "spiele": "12",
-    "siege": "6",
+    "spiele": "13",
+    "siege": "7",
     "unentschieden": "3",
     "niederlagen": "3",
-    "tore_plus": "32",
+    "tore_plus": "34",
     "tore_minus": "19",
-    "tordifferenz": "13",
-    "punkte": "21"
+    "tordifferenz": "15",
+    "punkte": "24"
   },
   {
     "rang": "5",
@@ -62,13 +62,13 @@
   {
     "rang": "6",
     "mannschaft": "FC Hittisau 1b",
-    "spiele": "11",
+    "spiele": "12",
     "siege": "4",
     "unentschieden": "1",
-    "niederlagen": "6",
-    "tore_plus": "24",
-    "tore_minus": "29",
-    "tordifferenz": "-5",
+    "niederlagen": "7",
+    "tore_plus": "26",
+    "tore_minus": "35",
+    "tordifferenz": "-9",
     "punkte": "13"
   },
   {
@@ -110,13 +110,13 @@
   {
     "rang": "10",
     "mannschaft": "Wolfurt / Kennelbach 1c",
-    "spiele": "13",
+    "spiele": "14",
     "siege": "2",
     "unentschieden": "3",
-    "niederlagen": "8",
+    "niederlagen": "9",
     "tore_plus": "14",
-    "tore_minus": "36",
-    "tordifferenz": "-22",
+    "tore_minus": "38",
+    "tordifferenz": "-24",
     "punkte": "9"
   }
 ]
