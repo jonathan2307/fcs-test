@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "FC Rätia Bludenz",
-    "spiele": "18",
-    "siege": "15",
+    "spiele": "19",
+    "siege": "16",
     "unentschieden": "1",
     "niederlagen": "2",
-    "tore_plus": "64",
+    "tore_plus": "71",
     "tore_minus": "16",
-    "tordifferenz": "48",
-    "punkte": "46"
+    "tordifferenz": "55",
+    "punkte": "49"
   },
   {
     "rang": "2",
@@ -37,18 +37,30 @@
   },
   {
     "rang": "4",
-    "mannschaft": "SV Ludesch 1b",
-    "spiele": "18",
-    "siege": "8",
-    "unentschieden": "5",
-    "niederlagen": "5",
-    "tore_plus": "47",
-    "tore_minus": "26",
-    "tordifferenz": "21",
-    "punkte": "29"
+    "mannschaft": "RW Rankweil 1b",
+    "spiele": "19",
+    "siege": "9",
+    "unentschieden": "3",
+    "niederlagen": "7",
+    "tore_plus": "55",
+    "tore_minus": "37",
+    "tordifferenz": "18",
+    "punkte": "30"
   },
   {
     "rang": "5",
+    "mannschaft": "SV Ludesch 1b",
+    "spiele": "19",
+    "siege": "8",
+    "unentschieden": "5",
+    "niederlagen": "6",
+    "tore_plus": "47",
+    "tore_minus": "28",
+    "tordifferenz": "19",
+    "punkte": "29"
+  },
+  {
+    "rang": "6",
     "mannschaft": "SCM Vandans",
     "spiele": "18",
     "siege": "8",
@@ -58,18 +70,6 @@
     "tore_minus": "35",
     "tordifferenz": "13",
     "punkte": "28"
-  },
-  {
-    "rang": "6",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "18",
-    "siege": "8",
-    "unentschieden": "3",
-    "niederlagen": "7",
-    "tore_plus": "53",
-    "tore_minus": "37",
-    "tordifferenz": "16",
-    "punkte": "27"
   },
   {
     "rang": "7",
@@ -85,6 +85,18 @@
   },
   {
     "rang": "8",
+    "mannschaft": "SPG Großwalsertal 1b",
+    "spiele": "19",
+    "siege": "8",
+    "unentschieden": "2",
+    "niederlagen": "9",
+    "tore_plus": "37",
+    "tore_minus": "43",
+    "tordifferenz": "-6",
+    "punkte": "26"
+  },
+  {
+    "rang": "9",
     "mannschaft": "FC Klostertal",
     "spiele": "19",
     "siege": "8",
@@ -96,7 +108,7 @@
     "punkte": "26"
   },
   {
-    "rang": "9",
+    "rang": "10",
     "mannschaft": "FC Sulz 1b",
     "spiele": "19",
     "siege": "7",
@@ -106,18 +118,6 @@
     "tore_minus": "33",
     "tordifferenz": "-2",
     "punkte": "25"
-  },
-  {
-    "rang": "10",
-    "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "18",
-    "siege": "7",
-    "unentschieden": "2",
-    "niederlagen": "9",
-    "tore_plus": "32",
-    "tore_minus": "41",
-    "tordifferenz": "-9",
-    "punkte": "23"
   },
   {
     "rang": "11",
@@ -146,25 +146,25 @@
   {
     "rang": "13",
     "mannschaft": "FC Lustenau 1c",
-    "spiele": "18",
+    "spiele": "19",
     "siege": "5",
     "unentschieden": "0",
-    "niederlagen": "13",
+    "niederlagen": "14",
     "tore_plus": "37",
-    "tore_minus": "59",
-    "tordifferenz": "-22",
+    "tore_minus": "66",
+    "tordifferenz": "-29",
     "punkte": "15"
   },
   {
     "rang": "14",
     "mannschaft": "FC Mäder",
-    "spiele": "18",
+    "spiele": "19",
     "siege": "1",
     "unentschieden": "4",
-    "niederlagen": "13",
-    "tore_plus": "15",
-    "tore_minus": "74",
-    "tordifferenz": "-59",
+    "niederlagen": "14",
+    "tore_plus": "17",
+    "tore_minus": "79",
+    "tordifferenz": "-62",
     "punkte": "7"
   }
 ]

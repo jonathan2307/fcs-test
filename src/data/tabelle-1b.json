@@ -14,14 +14,14 @@
   {
     "rang": "2",
     "mannschaft": "VfB Bezau 1b",
-    "spiele": "13",
-    "siege": "8",
+    "spiele": "14",
+    "siege": "9",
     "unentschieden": "1",
     "niederlagen": "4",
-    "tore_plus": "24",
-    "tore_minus": "14",
-    "tordifferenz": "10",
-    "punkte": "25"
+    "tore_plus": "26",
+    "tore_minus": "15",
+    "tordifferenz": "11",
+    "punkte": "28"
   },
   {
     "rang": "3",
@@ -98,13 +98,13 @@
   {
     "rang": "9",
     "mannschaft": "SC Mühlebach Juniors",
-    "spiele": "11",
+    "spiele": "12",
     "siege": "3",
     "unentschieden": "1",
-    "niederlagen": "7",
-    "tore_plus": "17",
-    "tore_minus": "42",
-    "tordifferenz": "-25",
+    "niederlagen": "8",
+    "tore_plus": "18",
+    "tore_minus": "44",
+    "tordifferenz": "-26",
     "punkte": "10"
   },
   {
