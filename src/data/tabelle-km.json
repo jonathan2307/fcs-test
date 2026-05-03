@@ -49,6 +49,18 @@
   },
   {
     "rang": "5",
+    "mannschaft": "SCM Vandans",
+    "spiele": "19",
+    "siege": "8",
+    "unentschieden": "5",
+    "niederlagen": "6",
+    "tore_plus": "49",
+    "tore_minus": "36",
+    "tordifferenz": "13",
+    "punkte": "29"
+  },
+  {
+    "rang": "6",
     "mannschaft": "SV Ludesch 1b",
     "spiele": "19",
     "siege": "8",
@@ -58,18 +70,6 @@
     "tore_minus": "28",
     "tordifferenz": "19",
     "punkte": "29"
-  },
-  {
-    "rang": "6",
-    "mannschaft": "SCM Vandans",
-    "spiele": "18",
-    "siege": "8",
-    "unentschieden": "4",
-    "niederlagen": "6",
-    "tore_plus": "48",
-    "tore_minus": "35",
-    "tordifferenz": "13",
-    "punkte": "28"
   },
   {
     "rang": "7",
@@ -122,14 +122,14 @@
   {
     "rang": "11",
     "mannschaft": "FC BW Feldkirch Juniors",
-    "spiele": "18",
+    "spiele": "19",
     "siege": "5",
-    "unentschieden": "3",
+    "unentschieden": "4",
     "niederlagen": "10",
-    "tore_plus": "36",
-    "tore_minus": "46",
+    "tore_plus": "37",
+    "tore_minus": "47",
     "tordifferenz": "-10",
-    "punkte": "18"
+    "punkte": "19"
   },
   {
     "rang": "12",
