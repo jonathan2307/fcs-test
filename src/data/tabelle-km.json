@@ -37,6 +37,18 @@
   },
   {
     "rang": "4",
+    "mannschaft": "SCM Vandans",
+    "spiele": "20",
+    "siege": "8",
+    "unentschieden": "6",
+    "niederlagen": "6",
+    "tore_plus": "51",
+    "tore_minus": "38",
+    "tordifferenz": "13",
+    "punkte": "30"
+  },
+  {
+    "rang": "5",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "19",
     "siege": "9",
@@ -46,18 +58,6 @@
     "tore_minus": "37",
     "tordifferenz": "18",
     "punkte": "30"
-  },
-  {
-    "rang": "5",
-    "mannschaft": "SCM Vandans",
-    "spiele": "19",
-    "siege": "8",
-    "unentschieden": "5",
-    "niederlagen": "6",
-    "tore_plus": "49",
-    "tore_minus": "36",
-    "tordifferenz": "13",
-    "punkte": "29"
   },
   {
     "rang": "6",
@@ -74,13 +74,13 @@
   {
     "rang": "7",
     "mannschaft": "SV Gaissau 1b",
-    "spiele": "19",
+    "spiele": "20",
     "siege": "8",
     "unentschieden": "3",
-    "niederlagen": "8",
+    "niederlagen": "9",
     "tore_plus": "34",
-    "tore_minus": "41",
-    "tordifferenz": "-7",
+    "tore_minus": "43",
+    "tordifferenz": "-9",
     "punkte": "27"
   },
   {
@@ -133,6 +133,18 @@
   },
   {
     "rang": "12",
+    "mannschaft": "FC Lustenau 1c",
+    "spiele": "20",
+    "siege": "5",
+    "unentschieden": "1",
+    "niederlagen": "14",
+    "tore_plus": "39",
+    "tore_minus": "68",
+    "tordifferenz": "-29",
+    "punkte": "16"
+  },
+  {
+    "rang": "13",
     "mannschaft": "FC Götzis 1b",
     "spiele": "19",
     "siege": "5",
@@ -144,27 +156,15 @@
     "punkte": "16"
   },
   {
-    "rang": "13",
-    "mannschaft": "FC Lustenau 1c",
-    "spiele": "19",
-    "siege": "5",
-    "unentschieden": "0",
-    "niederlagen": "14",
-    "tore_plus": "37",
-    "tore_minus": "66",
-    "tordifferenz": "-29",
-    "punkte": "15"
-  },
-  {
     "rang": "14",
     "mannschaft": "FC Mäder",
-    "spiele": "19",
-    "siege": "1",
+    "spiele": "20",
+    "siege": "2",
     "unentschieden": "4",
     "niederlagen": "14",
-    "tore_plus": "17",
+    "tore_plus": "19",
     "tore_minus": "79",
-    "tordifferenz": "-62",
-    "punkte": "7"
+    "tordifferenz": "-60",
+    "punkte": "10"
   }
 ]
