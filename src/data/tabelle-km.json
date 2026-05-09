@@ -14,26 +14,26 @@
   {
     "rang": "2",
     "mannschaft": "FC Schwarzach",
-    "spiele": "19",
+    "spiele": "20",
     "siege": "14",
-    "unentschieden": "1",
+    "unentschieden": "2",
     "niederlagen": "4",
-    "tore_plus": "50",
-    "tore_minus": "19",
+    "tore_plus": "52",
+    "tore_minus": "21",
     "tordifferenz": "31",
-    "punkte": "43"
+    "punkte": "44"
   },
   {
     "rang": "3",
     "mannschaft": "Austria Lustenau Juniors",
-    "spiele": "19",
-    "siege": "11",
+    "spiele": "20",
+    "siege": "12",
     "unentschieden": "5",
     "niederlagen": "3",
-    "tore_plus": "60",
-    "tore_minus": "36",
-    "tordifferenz": "24",
-    "punkte": "38"
+    "tore_plus": "67",
+    "tore_minus": "40",
+    "tordifferenz": "27",
+    "punkte": "41"
   },
   {
     "rang": "4",
@@ -62,13 +62,13 @@
   {
     "rang": "6",
     "mannschaft": "SV Ludesch 1b",
-    "spiele": "19",
+    "spiele": "20",
     "siege": "8",
     "unentschieden": "5",
-    "niederlagen": "6",
-    "tore_plus": "47",
-    "tore_minus": "28",
-    "tordifferenz": "19",
+    "niederlagen": "7",
+    "tore_plus": "48",
+    "tore_minus": "31",
+    "tordifferenz": "17",
     "punkte": "29"
   },
   {
@@ -85,18 +85,6 @@
   },
   {
     "rang": "8",
-    "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "19",
-    "siege": "8",
-    "unentschieden": "2",
-    "niederlagen": "9",
-    "tore_plus": "37",
-    "tore_minus": "43",
-    "tordifferenz": "-6",
-    "punkte": "26"
-  },
-  {
-    "rang": "9",
     "mannschaft": "FC Klostertal",
     "spiele": "19",
     "siege": "8",
@@ -105,6 +93,18 @@
     "tore_plus": "36",
     "tore_minus": "44",
     "tordifferenz": "-8",
+    "punkte": "26"
+  },
+  {
+    "rang": "9",
+    "mannschaft": "SPG Großwalsertal 1b",
+    "spiele": "20",
+    "siege": "8",
+    "unentschieden": "2",
+    "niederlagen": "10",
+    "tore_plus": "41",
+    "tore_minus": "50",
+    "tordifferenz": "-9",
     "punkte": "26"
   },
   {
@@ -122,17 +122,29 @@
   {
     "rang": "11",
     "mannschaft": "FC BW Feldkirch Juniors",
-    "spiele": "19",
+    "spiele": "20",
     "siege": "5",
-    "unentschieden": "4",
+    "unentschieden": "5",
     "niederlagen": "10",
-    "tore_plus": "37",
-    "tore_minus": "47",
+    "tore_plus": "39",
+    "tore_minus": "49",
     "tordifferenz": "-10",
-    "punkte": "19"
+    "punkte": "20"
   },
   {
     "rang": "12",
+    "mannschaft": "FC Götzis 1b",
+    "spiele": "20",
+    "siege": "6",
+    "unentschieden": "1",
+    "niederlagen": "13",
+    "tore_plus": "31",
+    "tore_minus": "65",
+    "tordifferenz": "-34",
+    "punkte": "19"
+  },
+  {
+    "rang": "13",
     "mannschaft": "FC Lustenau 1c",
     "spiele": "20",
     "siege": "5",
@@ -141,18 +153,6 @@
     "tore_plus": "39",
     "tore_minus": "68",
     "tordifferenz": "-29",
-    "punkte": "16"
-  },
-  {
-    "rang": "13",
-    "mannschaft": "FC Götzis 1b",
-    "spiele": "19",
-    "siege": "5",
-    "unentschieden": "1",
-    "niederlagen": "13",
-    "tore_plus": "28",
-    "tore_minus": "64",
-    "tordifferenz": "-36",
     "punkte": "16"
   },
   {
