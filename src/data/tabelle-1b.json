@@ -61,6 +61,18 @@
   },
   {
     "rang": "6",
+    "mannschaft": "FC Hittisau 1b",
+    "spiele": "13",
+    "siege": "5",
+    "unentschieden": "1",
+    "niederlagen": "7",
+    "tore_plus": "31",
+    "tore_minus": "36",
+    "tordifferenz": "-5",
+    "punkte": "16"
+  },
+  {
+    "rang": "7",
     "mannschaft": "FC Rotenberg Juniors 1c",
     "spiele": "14",
     "siege": "5",
@@ -72,27 +84,15 @@
     "punkte": "15"
   },
   {
-    "rang": "7",
-    "mannschaft": "FC Hittisau 1b",
-    "spiele": "12",
-    "siege": "4",
-    "unentschieden": "1",
-    "niederlagen": "7",
-    "tore_plus": "26",
-    "tore_minus": "35",
-    "tordifferenz": "-9",
-    "punkte": "13"
-  },
-  {
     "rang": "8",
     "mannschaft": "FC Schwarzach 1b",
-    "spiele": "13",
+    "spiele": "14",
     "siege": "4",
     "unentschieden": "1",
-    "niederlagen": "8",
-    "tore_plus": "17",
-    "tore_minus": "29",
-    "tordifferenz": "-12",
+    "niederlagen": "9",
+    "tore_plus": "18",
+    "tore_minus": "34",
+    "tordifferenz": "-16",
     "punkte": "13"
   },
   {

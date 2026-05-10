@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "FC Rätia Bludenz",
-    "spiele": "19",
-    "siege": "16",
+    "spiele": "20",
+    "siege": "17",
     "unentschieden": "1",
     "niederlagen": "2",
-    "tore_plus": "71",
-    "tore_minus": "16",
-    "tordifferenz": "55",
-    "punkte": "49"
+    "tore_plus": "79",
+    "tore_minus": "19",
+    "tordifferenz": "60",
+    "punkte": "52"
   },
   {
     "rang": "2",
@@ -37,6 +37,18 @@
   },
   {
     "rang": "4",
+    "mannschaft": "RW Rankweil 1b",
+    "spiele": "20",
+    "siege": "10",
+    "unentschieden": "3",
+    "niederlagen": "7",
+    "tore_plus": "57",
+    "tore_minus": "38",
+    "tordifferenz": "19",
+    "punkte": "33"
+  },
+  {
+    "rang": "5",
     "mannschaft": "SCM Vandans",
     "spiele": "20",
     "siege": "8",
@@ -45,18 +57,6 @@
     "tore_plus": "51",
     "tore_minus": "38",
     "tordifferenz": "13",
-    "punkte": "30"
-  },
-  {
-    "rang": "5",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "19",
-    "siege": "9",
-    "unentschieden": "3",
-    "niederlagen": "7",
-    "tore_plus": "55",
-    "tore_minus": "37",
-    "tordifferenz": "18",
     "punkte": "30"
   },
   {
@@ -85,18 +85,6 @@
   },
   {
     "rang": "8",
-    "mannschaft": "FC Klostertal",
-    "spiele": "19",
-    "siege": "8",
-    "unentschieden": "2",
-    "niederlagen": "9",
-    "tore_plus": "36",
-    "tore_minus": "44",
-    "tordifferenz": "-8",
-    "punkte": "26"
-  },
-  {
-    "rang": "9",
     "mannschaft": "SPG Großwalsertal 1b",
     "spiele": "20",
     "siege": "8",
@@ -108,15 +96,27 @@
     "punkte": "26"
   },
   {
+    "rang": "9",
+    "mannschaft": "FC Klostertal",
+    "spiele": "20",
+    "siege": "8",
+    "unentschieden": "2",
+    "niederlagen": "10",
+    "tore_plus": "39",
+    "tore_minus": "52",
+    "tordifferenz": "-13",
+    "punkte": "26"
+  },
+  {
     "rang": "10",
     "mannschaft": "FC Sulz 1b",
-    "spiele": "19",
+    "spiele": "20",
     "siege": "7",
     "unentschieden": "4",
-    "niederlagen": "8",
-    "tore_plus": "31",
-    "tore_minus": "33",
-    "tordifferenz": "-2",
+    "niederlagen": "9",
+    "tore_plus": "32",
+    "tore_minus": "35",
+    "tordifferenz": "-3",
     "punkte": "25"
   },
   {
