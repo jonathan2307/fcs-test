@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "SPG Mellau/Bizau 1b",
-    "spiele": "14",
-    "siege": "10",
+    "spiele": "15",
+    "siege": "11",
     "unentschieden": "2",
     "niederlagen": "2",
-    "tore_plus": "37",
+    "tore_plus": "43",
     "tore_minus": "20",
-    "tordifferenz": "17",
-    "punkte": "32"
+    "tordifferenz": "23",
+    "punkte": "35"
   },
   {
     "rang": "2",
@@ -86,13 +86,13 @@
   {
     "rang": "8",
     "mannschaft": "FC Schwarzach 1b",
-    "spiele": "14",
+    "spiele": "15",
     "siege": "4",
     "unentschieden": "1",
-    "niederlagen": "9",
+    "niederlagen": "10",
     "tore_plus": "18",
-    "tore_minus": "34",
-    "tordifferenz": "-16",
+    "tore_minus": "40",
+    "tordifferenz": "-22",
     "punkte": "13"
   },
   {
