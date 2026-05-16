@@ -26,17 +26,29 @@
   {
     "rang": "3",
     "mannschaft": "Hörbranz/Hohenweiler 1b",
-    "spiele": "14",
-    "siege": "7",
+    "spiele": "15",
+    "siege": "8",
     "unentschieden": "4",
     "niederlagen": "3",
-    "tore_plus": "53",
+    "tore_plus": "56",
     "tore_minus": "23",
-    "tordifferenz": "30",
-    "punkte": "25"
+    "tordifferenz": "33",
+    "punkte": "28"
   },
   {
     "rang": "4",
+    "mannschaft": "FC Schwarzenberg 1b",
+    "spiele": "15",
+    "siege": "8",
+    "unentschieden": "2",
+    "niederlagen": "5",
+    "tore_plus": "30",
+    "tore_minus": "27",
+    "tordifferenz": "3",
+    "punkte": "26"
+  },
+  {
+    "rang": "5",
     "mannschaft": "FC Au 1b",
     "spiele": "14",
     "siege": "7",
@@ -46,18 +58,6 @@
     "tore_minus": "21",
     "tordifferenz": "15",
     "punkte": "25"
-  },
-  {
-    "rang": "5",
-    "mannschaft": "FC Schwarzenberg 1b",
-    "spiele": "14",
-    "siege": "7",
-    "unentschieden": "2",
-    "niederlagen": "5",
-    "tore_plus": "27",
-    "tore_minus": "25",
-    "tordifferenz": "2",
-    "punkte": "23"
   },
   {
     "rang": "6",
@@ -98,25 +98,25 @@
   {
     "rang": "9",
     "mannschaft": "SC Mühlebach Juniors",
-    "spiele": "13",
+    "spiele": "14",
     "siege": "3",
     "unentschieden": "2",
-    "niederlagen": "8",
+    "niederlagen": "9",
     "tore_plus": "20",
-    "tore_minus": "46",
-    "tordifferenz": "-26",
+    "tore_minus": "49",
+    "tordifferenz": "-29",
     "punkte": "11"
   },
   {
     "rang": "10",
     "mannschaft": "Wolfurt / Kennelbach 1c",
-    "spiele": "14",
+    "spiele": "15",
     "siege": "2",
     "unentschieden": "3",
-    "niederlagen": "9",
-    "tore_plus": "14",
-    "tore_minus": "38",
-    "tordifferenz": "-24",
+    "niederlagen": "10",
+    "tore_plus": "16",
+    "tore_minus": "41",
+    "tordifferenz": "-25",
     "punkte": "9"
   }
 ]
