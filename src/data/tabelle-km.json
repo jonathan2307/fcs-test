@@ -37,18 +37,6 @@
   },
   {
     "rang": "4",
-    "mannschaft": "SCM Vandans",
-    "spiele": "21",
-    "siege": "9",
-    "unentschieden": "6",
-    "niederlagen": "6",
-    "tore_plus": "54",
-    "tore_minus": "39",
-    "tordifferenz": "15",
-    "punkte": "33"
-  },
-  {
-    "rang": "5",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "21",
     "siege": "10",
@@ -57,6 +45,18 @@
     "tore_plus": "58",
     "tore_minus": "40",
     "tordifferenz": "18",
+    "punkte": "33"
+  },
+  {
+    "rang": "5",
+    "mannschaft": "SCM Vandans",
+    "spiele": "21",
+    "siege": "9",
+    "unentschieden": "6",
+    "niederlagen": "6",
+    "tore_plus": "54",
+    "tore_minus": "39",
+    "tordifferenz": "15",
     "punkte": "33"
   },
   {
