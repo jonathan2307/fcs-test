@@ -86,14 +86,14 @@
   {
     "rang": "8",
     "mannschaft": "FC Schwarzach 1b",
-    "spiele": "15",
-    "siege": "4",
+    "spiele": "16",
+    "siege": "5",
     "unentschieden": "1",
     "niederlagen": "10",
-    "tore_plus": "18",
+    "tore_plus": "20",
     "tore_minus": "40",
-    "tordifferenz": "-22",
-    "punkte": "13"
+    "tordifferenz": "-20",
+    "punkte": "16"
   },
   {
     "rang": "9",
@@ -110,13 +110,13 @@
   {
     "rang": "10",
     "mannschaft": "Wolfurt / Kennelbach 1c",
-    "spiele": "15",
+    "spiele": "16",
     "siege": "2",
     "unentschieden": "3",
-    "niederlagen": "10",
+    "niederlagen": "11",
     "tore_plus": "16",
-    "tore_minus": "41",
-    "tordifferenz": "-25",
+    "tore_minus": "43",
+    "tordifferenz": "-27",
     "punkte": "9"
   }
 ]
