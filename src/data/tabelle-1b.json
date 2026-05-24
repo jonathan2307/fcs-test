@@ -2,13 +2,13 @@
   {
     "rang": "1",
     "mannschaft": "SPG Mellau/Bizau 1b",
-    "spiele": "15",
+    "spiele": "16",
     "siege": "11",
     "unentschieden": "2",
-    "niederlagen": "2",
-    "tore_plus": "43",
-    "tore_minus": "20",
-    "tordifferenz": "23",
+    "niederlagen": "3",
+    "tore_plus": "44",
+    "tore_minus": "22",
+    "tordifferenz": "22",
     "punkte": "35"
   },
   {
@@ -62,25 +62,25 @@
   {
     "rang": "6",
     "mannschaft": "FC Rotenberg Juniors 1c",
-    "spiele": "15",
-    "siege": "6",
+    "spiele": "16",
+    "siege": "7",
     "unentschieden": "0",
     "niederlagen": "9",
-    "tore_plus": "30",
-    "tore_minus": "32",
-    "tordifferenz": "-2",
-    "punkte": "18"
+    "tore_plus": "32",
+    "tore_minus": "33",
+    "tordifferenz": "-1",
+    "punkte": "21"
   },
   {
     "rang": "7",
     "mannschaft": "FC Hittisau 1b",
-    "spiele": "14",
+    "spiele": "15",
     "siege": "5",
     "unentschieden": "1",
-    "niederlagen": "8",
-    "tore_plus": "33",
-    "tore_minus": "40",
-    "tordifferenz": "-7",
+    "niederlagen": "9",
+    "tore_plus": "35",
+    "tore_minus": "44",
+    "tordifferenz": "-9",
     "punkte": "16"
   },
   {
@@ -98,14 +98,14 @@
   {
     "rang": "9",
     "mannschaft": "SC Mühlebach Juniors",
-    "spiele": "14",
-    "siege": "3",
+    "spiele": "15",
+    "siege": "4",
     "unentschieden": "2",
     "niederlagen": "9",
-    "tore_plus": "20",
-    "tore_minus": "49",
-    "tordifferenz": "-29",
-    "punkte": "11"
+    "tore_plus": "24",
+    "tore_minus": "51",
+    "tordifferenz": "-27",
+    "punkte": "14"
   },
   {
     "rang": "10",

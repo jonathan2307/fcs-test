@@ -13,6 +13,18 @@
   },
   {
     "rang": "2",
+    "mannschaft": "FC Schwarzach",
+    "spiele": "22",
+    "siege": "15",
+    "unentschieden": "3",
+    "niederlagen": "4",
+    "tore_plus": "55",
+    "tore_minus": "23",
+    "tordifferenz": "32",
+    "punkte": "48"
+  },
+  {
+    "rang": "3",
     "mannschaft": "Austria Lustenau Juniors",
     "spiele": "22",
     "siege": "14",
@@ -20,18 +32,6 @@
     "niederlagen": "3",
     "tore_plus": "74",
     "tore_minus": "42",
-    "tordifferenz": "32",
-    "punkte": "47"
-  },
-  {
-    "rang": "3",
-    "mannschaft": "FC Schwarzach",
-    "spiele": "21",
-    "siege": "15",
-    "unentschieden": "2",
-    "niederlagen": "4",
-    "tore_plus": "54",
-    "tore_minus": "22",
     "tordifferenz": "32",
     "punkte": "47"
   },
@@ -98,14 +98,14 @@
   {
     "rang": "9",
     "mannschaft": "FC Klostertal",
-    "spiele": "21",
+    "spiele": "22",
     "siege": "8",
-    "unentschieden": "2",
+    "unentschieden": "3",
     "niederlagen": "11",
-    "tore_plus": "40",
-    "tore_minus": "55",
+    "tore_plus": "41",
+    "tore_minus": "56",
     "tordifferenz": "-15",
-    "punkte": "26"
+    "punkte": "27"
   },
   {
     "rang": "10",
