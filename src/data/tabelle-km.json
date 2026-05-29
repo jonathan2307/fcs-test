@@ -14,14 +14,14 @@
   {
     "rang": "2",
     "mannschaft": "FC Schwarzach",
-    "spiele": "22",
-    "siege": "15",
+    "spiele": "23",
+    "siege": "16",
     "unentschieden": "3",
     "niederlagen": "4",
-    "tore_plus": "55",
+    "tore_plus": "58",
     "tore_minus": "23",
-    "tordifferenz": "32",
-    "punkte": "48"
+    "tordifferenz": "35",
+    "punkte": "51"
   },
   {
     "rang": "3",
@@ -158,13 +158,13 @@
   {
     "rang": "14",
     "mannschaft": "FC Mäder",
-    "spiele": "22",
+    "spiele": "23",
     "siege": "2",
     "unentschieden": "5",
-    "niederlagen": "15",
+    "niederlagen": "16",
     "tore_plus": "21",
-    "tore_minus": "87",
-    "tordifferenz": "-66",
+    "tore_minus": "90",
+    "tordifferenz": "-69",
     "punkte": "11"
   }
 ]

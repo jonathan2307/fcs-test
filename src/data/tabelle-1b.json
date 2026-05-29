@@ -38,26 +38,26 @@
   {
     "rang": "4",
     "mannschaft": "VfB Bezau 1b",
-    "spiele": "15",
+    "spiele": "16",
     "siege": "9",
     "unentschieden": "1",
-    "niederlagen": "5",
-    "tore_plus": "28",
-    "tore_minus": "20",
-    "tordifferenz": "8",
+    "niederlagen": "6",
+    "tore_plus": "29",
+    "tore_minus": "22",
+    "tordifferenz": "7",
     "punkte": "28"
   },
   {
     "rang": "5",
     "mannschaft": "FC Au 1b",
-    "spiele": "15",
-    "siege": "7",
+    "spiele": "16",
+    "siege": "8",
     "unentschieden": "4",
     "niederlagen": "4",
-    "tore_plus": "37",
-    "tore_minus": "26",
-    "tordifferenz": "11",
-    "punkte": "25"
+    "tore_plus": "39",
+    "tore_minus": "27",
+    "tordifferenz": "12",
+    "punkte": "28"
   },
   {
     "rang": "6",
