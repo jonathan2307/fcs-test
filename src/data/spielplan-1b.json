@@ -1,5 +1,16 @@
 [
   {
+    "datum": "2026-06-06",
+    "uhrzeit": "14:30",
+    "heim": "FC Schwarzach 1b",
+    "gast": "FC Schwarzenberg 1b",
+    "liga": "5. Landesklasse Unterland",
+    "runde": "18",
+    "ort": "",
+    "ergebnis_heim": "",
+    "ergebnis_gast": ""
+  },
+  {
     "datum": "2026-05-30",
     "uhrzeit": "13:30",
     "heim": "FC Au 1b",
@@ -7,8 +18,8 @@
     "liga": "5. Landesklasse Unterland",
     "runde": "17",
     "ort": "",
-    "ergebnis_heim": "",
-    "ergebnis_gast": ""
+    "ergebnis_heim": "1",
+    "ergebnis_gast": "0"
   },
   {
     "datum": "2026-05-22",

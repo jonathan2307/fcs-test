@@ -1,5 +1,27 @@
 [
   {
+    "datum": "2026-06-06",
+    "uhrzeit": "17:00",
+    "heim": "FC Schwarzach",
+    "gast": "SV Gaissau 1b",
+    "liga": "3. Landesklasse",
+    "runde": "25",
+    "ort": "",
+    "ergebnis_heim": "",
+    "ergebnis_gast": ""
+  },
+  {
+    "datum": "2026-06-04",
+    "uhrzeit": "17:00",
+    "heim": "SPG Großwalsertal 1b",
+    "gast": "FC Schwarzach",
+    "liga": "3. Landesklasse",
+    "runde": "24",
+    "ort": "",
+    "ergebnis_heim": "0",
+    "ergebnis_gast": "2"
+  },
+  {
     "datum": "2026-05-29",
     "uhrzeit": "18:00",
     "heim": "FC Schwarzach",
