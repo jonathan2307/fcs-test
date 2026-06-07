@@ -49,6 +49,18 @@
   },
   {
     "rang": "5",
+    "mannschaft": "SV Ludesch 1b",
+    "spiele": "25",
+    "siege": "10",
+    "unentschieden": "7",
+    "niederlagen": "8",
+    "tore_plus": "60",
+    "tore_minus": "47",
+    "tordifferenz": "13",
+    "punkte": "37"
+  },
+  {
+    "rang": "6",
     "mannschaft": "FC Sulz 1b",
     "spiele": "25",
     "siege": "11",
@@ -60,19 +72,19 @@
     "punkte": "37"
   },
   {
-    "rang": "6",
-    "mannschaft": "SV Ludesch 1b",
+    "rang": "7",
+    "mannschaft": "RW Rankweil 1b",
     "spiele": "24",
-    "siege": "9",
-    "unentschieden": "7",
-    "niederlagen": "8",
-    "tore_plus": "58",
-    "tore_minus": "46",
-    "tordifferenz": "12",
-    "punkte": "34"
+    "siege": "10",
+    "unentschieden": "3",
+    "niederlagen": "11",
+    "tore_plus": "55",
+    "tore_minus": "50",
+    "tordifferenz": "5",
+    "punkte": "33"
   },
   {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "FC BW Feldkirch Juniors",
     "spiele": "25",
     "siege": "8",
@@ -81,18 +93,6 @@
     "tore_plus": "51",
     "tore_minus": "69",
     "tordifferenz": "-18",
-    "punkte": "30"
-  },
-  {
-    "rang": "8",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "23",
-    "siege": "9",
-    "unentschieden": "3",
-    "niederlagen": "11",
-    "tore_plus": "51",
-    "tore_minus": "50",
-    "tordifferenz": "1",
     "punkte": "30"
   },
   {
@@ -110,13 +110,13 @@
   {
     "rang": "10",
     "mannschaft": "FC Klostertal",
-    "spiele": "24",
+    "spiele": "25",
     "siege": "8",
     "unentschieden": "3",
-    "niederlagen": "13",
+    "niederlagen": "14",
     "tore_plus": "42",
-    "tore_minus": "61",
-    "tordifferenz": "-19",
+    "tore_minus": "65",
+    "tordifferenz": "-23",
     "punkte": "27"
   },
   {
@@ -134,13 +134,13 @@
   {
     "rang": "12",
     "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "24",
+    "spiele": "25",
     "siege": "8",
     "unentschieden": "2",
-    "niederlagen": "14",
-    "tore_plus": "45",
-    "tore_minus": "65",
-    "tordifferenz": "-20",
+    "niederlagen": "15",
+    "tore_plus": "46",
+    "tore_minus": "67",
+    "tordifferenz": "-21",
     "punkte": "26"
   },
   {
