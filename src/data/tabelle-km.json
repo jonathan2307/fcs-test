@@ -1,6 +1,30 @@
 [
   {
     "rang": "1",
+    "mannschaft": "SPG Großwalsertal 1b",
+    "spiele": "1",
+    "siege": "0",
+    "unentschieden": "1",
+    "niederlagen": "0",
+    "tore_plus": "2",
+    "tore_minus": "2",
+    "tordifferenz": "0",
+    "punkte": "1"
+  },
+  {
+    "rang": "2",
+    "mannschaft": "FC Koblach 1b",
+    "spiele": "1",
+    "siege": "0",
+    "unentschieden": "1",
+    "niederlagen": "0",
+    "tore_plus": "2",
+    "tore_minus": "2",
+    "tordifferenz": "0",
+    "punkte": "1"
+  },
+  {
+    "rang": "3",
     "mannschaft": "FC Klostertal",
     "spiele": "0",
     "siege": "0",
@@ -12,7 +36,7 @@
     "punkte": "0"
   },
   {
-    "rang": "2",
+    "rang": "4",
     "mannschaft": "FC Lustenau 1c",
     "spiele": "0",
     "siege": "0",
@@ -24,7 +48,7 @@
     "punkte": "0"
   },
   {
-    "rang": "3",
+    "rang": "5",
     "mannschaft": "FC Andelsbuch 1b",
     "spiele": "0",
     "siege": "0",
@@ -36,7 +60,7 @@
     "punkte": "0"
   },
   {
-    "rang": "4",
+    "rang": "6",
     "mannschaft": "FC Sulz 1b",
     "spiele": "0",
     "siege": "0",
@@ -48,7 +72,7 @@
     "punkte": "0"
   },
   {
-    "rang": "5",
+    "rang": "7",
     "mannschaft": "FC Schruns Juniors",
     "spiele": "0",
     "siege": "0",
@@ -60,19 +84,7 @@
     "punkte": "0"
   },
   {
-    "rang": "6",
-    "mannschaft": "FC Koblach 1b",
-    "spiele": "0",
-    "siege": "0",
-    "unentschieden": "0",
-    "niederlagen": "0",
-    "tore_plus": "0",
-    "tore_minus": "0",
-    "tordifferenz": "0",
-    "punkte": "0"
-  },
-  {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "0",
     "siege": "0",
@@ -84,7 +96,7 @@
     "punkte": "0"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "SC Tisis 1b",
     "spiele": "0",
     "siege": "0",
@@ -96,20 +108,8 @@
     "punkte": "0"
   },
   {
-    "rang": "9",
-    "mannschaft": "SCR Altach Future Team",
-    "spiele": "0",
-    "siege": "0",
-    "unentschieden": "0",
-    "niederlagen": "0",
-    "tore_plus": "0",
-    "tore_minus": "0",
-    "tordifferenz": "0",
-    "punkte": "0"
-  },
-  {
     "rang": "10",
-    "mannschaft": "SPG Großwalsertal 1b",
+    "mannschaft": "SCR Altach Future Team",
     "spiele": "0",
     "siege": "0",
     "unentschieden": "0",
