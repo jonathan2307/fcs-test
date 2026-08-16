@@ -97,27 +97,27 @@
   },
   {
     "rang": "9",
-    "mannschaft": "FC Klostertal",
-    "spiele": "0",
+    "mannschaft": "FC Andelsbuch 1b",
+    "spiele": "1",
     "siege": "0",
-    "unentschieden": "0",
+    "unentschieden": "1",
     "niederlagen": "0",
-    "tore_plus": "0",
-    "tore_minus": "0",
+    "tore_plus": "1",
+    "tore_minus": "1",
     "tordifferenz": "0",
-    "punkte": "0"
+    "punkte": "1"
   },
   {
     "rang": "10",
-    "mannschaft": "FC Andelsbuch 1b",
-    "spiele": "0",
+    "mannschaft": "FC Klostertal",
+    "spiele": "1",
     "siege": "0",
-    "unentschieden": "0",
+    "unentschieden": "1",
     "niederlagen": "0",
-    "tore_plus": "0",
-    "tore_minus": "0",
+    "tore_plus": "1",
+    "tore_minus": "1",
     "tordifferenz": "0",
-    "punkte": "0"
+    "punkte": "1"
   },
   {
     "rang": "11",
