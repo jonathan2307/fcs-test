@@ -1,18 +1,6 @@
 [
   {
     "rang": "1",
-    "mannschaft": "FC Schlins Juniors",
-    "spiele": "1",
-    "siege": "1",
-    "unentschieden": "0",
-    "niederlagen": "0",
-    "tore_plus": "6",
-    "tore_minus": "1",
-    "tordifferenz": "5",
-    "punkte": "3"
-  },
-  {
-    "rang": "2",
     "mannschaft": "FC Sulz 1b",
     "spiele": "1",
     "siege": "1",
@@ -21,6 +9,18 @@
     "tore_plus": "4",
     "tore_minus": "1",
     "tordifferenz": "3",
+    "punkte": "3"
+  },
+  {
+    "rang": "2",
+    "mannschaft": "FC Schlins Juniors",
+    "spiele": "1",
+    "siege": "1",
+    "unentschieden": "0",
+    "niederlagen": "0",
+    "tore_plus": "6",
+    "tore_minus": "1",
+    "tordifferenz": "5",
     "punkte": "3"
   },
   {
@@ -49,6 +49,18 @@
   },
   {
     "rang": "5",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "2",
+    "siege": "1",
+    "unentschieden": "0",
+    "niederlagen": "1",
+    "tore_plus": "4",
+    "tore_minus": "5",
+    "tordifferenz": "-1",
+    "punkte": "3"
+  },
+  {
+    "rang": "6",
     "mannschaft": "SC Tisis 1b",
     "spiele": "1",
     "siege": "0",
@@ -60,7 +72,7 @@
     "punkte": "1"
   },
   {
-    "rang": "6",
+    "rang": "7",
     "mannschaft": "FC Schruns Juniors",
     "spiele": "1",
     "siege": "0",
@@ -72,7 +84,7 @@
     "punkte": "1"
   },
   {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "SPG Großwalsertal 1b",
     "spiele": "1",
     "siege": "0",
@@ -84,7 +96,7 @@
     "punkte": "1"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "FC Koblach 1b",
     "spiele": "1",
     "siege": "0",
@@ -92,18 +104,6 @@
     "niederlagen": "0",
     "tore_plus": "2",
     "tore_minus": "2",
-    "tordifferenz": "0",
-    "punkte": "1"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "FC Andelsbuch 1b",
-    "spiele": "1",
-    "siege": "0",
-    "unentschieden": "1",
-    "niederlagen": "0",
-    "tore_plus": "1",
-    "tore_minus": "1",
     "tordifferenz": "0",
     "punkte": "1"
   },
@@ -121,6 +121,18 @@
   },
   {
     "rang": "11",
+    "mannschaft": "FC Andelsbuch 1b",
+    "spiele": "2",
+    "siege": "0",
+    "unentschieden": "1",
+    "niederlagen": "1",
+    "tore_plus": "2",
+    "tore_minus": "4",
+    "tordifferenz": "-2",
+    "punkte": "1"
+  },
+  {
+    "rang": "12",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "1",
     "siege": "0",
@@ -129,18 +141,6 @@
     "tore_plus": "1",
     "tore_minus": "3",
     "tordifferenz": "-2",
-    "punkte": "0"
-  },
-  {
-    "rang": "12",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "1",
-    "siege": "0",
-    "unentschieden": "0",
-    "niederlagen": "1",
-    "tore_plus": "1",
-    "tore_minus": "4",
-    "tordifferenz": "-3",
     "punkte": "0"
   },
   {
