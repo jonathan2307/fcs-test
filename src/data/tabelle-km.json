@@ -61,18 +61,6 @@
   },
   {
     "rang": "6",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "2",
-    "siege": "1",
-    "unentschieden": "0",
-    "niederlagen": "1",
-    "tore_plus": "4",
-    "tore_minus": "5",
-    "tordifferenz": "-1",
-    "punkte": "3"
-  },
-  {
-    "rang": "7",
     "mannschaft": "SCR Altach Future Team",
     "spiele": "2",
     "siege": "1",
@@ -84,7 +72,31 @@
     "punkte": "3"
   },
   {
+    "rang": "7",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "2",
+    "siege": "1",
+    "unentschieden": "0",
+    "niederlagen": "1",
+    "tore_plus": "4",
+    "tore_minus": "5",
+    "tordifferenz": "-1",
+    "punkte": "3"
+  },
+  {
     "rang": "8",
+    "mannschaft": "RW Rankweil 1b",
+    "spiele": "2",
+    "siege": "1",
+    "unentschieden": "0",
+    "niederlagen": "1",
+    "tore_plus": "2",
+    "tore_minus": "3",
+    "tordifferenz": "-1",
+    "punkte": "3"
+  },
+  {
+    "rang": "9",
     "mannschaft": "FC Andelsbuch 1b",
     "spiele": "2",
     "siege": "0",
@@ -96,7 +108,7 @@
     "punkte": "1"
   },
   {
-    "rang": "9",
+    "rang": "10",
     "mannschaft": "FC Klostertal",
     "spiele": "2",
     "siege": "0",
@@ -108,19 +120,19 @@
     "punkte": "1"
   },
   {
-    "rang": "10",
+    "rang": "11",
     "mannschaft": "FC Koblach 1b",
-    "spiele": "1",
+    "spiele": "2",
     "siege": "0",
     "unentschieden": "1",
-    "niederlagen": "0",
+    "niederlagen": "1",
     "tore_plus": "2",
-    "tore_minus": "2",
-    "tordifferenz": "0",
+    "tore_minus": "3",
+    "tordifferenz": "-1",
     "punkte": "1"
   },
   {
-    "rang": "11",
+    "rang": "12",
     "mannschaft": "FC Schruns Juniors",
     "spiele": "2",
     "siege": "0",
@@ -130,18 +142,6 @@
     "tore_minus": "7",
     "tordifferenz": "-3",
     "punkte": "1"
-  },
-  {
-    "rang": "12",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "1",
-    "siege": "0",
-    "unentschieden": "0",
-    "niederlagen": "1",
-    "tore_plus": "1",
-    "tore_minus": "3",
-    "tordifferenz": "-2",
-    "punkte": "0"
   },
   {
     "rang": "13",
