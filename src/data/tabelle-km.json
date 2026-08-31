@@ -1,6 +1,18 @@
 [
   {
     "rang": "1",
+    "mannschaft": "FC Schlins Juniors",
+    "spiele": "3",
+    "siege": "2",
+    "unentschieden": "1",
+    "niederlagen": "0",
+    "tore_plus": "13",
+    "tore_minus": "4",
+    "tordifferenz": "9",
+    "punkte": "7"
+  },
+  {
+    "rang": "2",
     "mannschaft": "SPG Großwalsertal 1b",
     "spiele": "3",
     "siege": "2",
@@ -10,18 +22,6 @@
     "tore_minus": "4",
     "tordifferenz": "5",
     "punkte": "7"
-  },
-  {
-    "rang": "2",
-    "mannschaft": "FC Schlins Juniors",
-    "spiele": "2",
-    "siege": "2",
-    "unentschieden": "0",
-    "niederlagen": "0",
-    "tore_plus": "11",
-    "tore_minus": "2",
-    "tordifferenz": "9",
-    "punkte": "6"
   },
   {
     "rang": "3",
@@ -61,6 +61,18 @@
   },
   {
     "rang": "6",
+    "mannschaft": "RW Rankweil 1b",
+    "spiele": "3",
+    "siege": "1",
+    "unentschieden": "1",
+    "niederlagen": "1",
+    "tore_plus": "4",
+    "tore_minus": "5",
+    "tordifferenz": "-1",
+    "punkte": "4"
+  },
+  {
+    "rang": "7",
     "mannschaft": "SC Tisis 1b",
     "spiele": "3",
     "siege": "1",
@@ -72,7 +84,7 @@
     "punkte": "4"
   },
   {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "FC Schruns Juniors",
     "spiele": "3",
     "siege": "1",
@@ -81,18 +93,6 @@
     "tore_plus": "7",
     "tore_minus": "8",
     "tordifferenz": "-1",
-    "punkte": "4"
-  },
-  {
-    "rang": "8",
-    "mannschaft": "FC Koblach 1b",
-    "spiele": "3",
-    "siege": "1",
-    "unentschieden": "1",
-    "niederlagen": "1",
-    "tore_plus": "6",
-    "tore_minus": "5",
-    "tordifferenz": "1",
     "punkte": "4"
   },
   {
@@ -109,15 +109,15 @@
   },
   {
     "rang": "10",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "2",
+    "mannschaft": "FC Koblach 1b",
+    "spiele": "3",
     "siege": "1",
-    "unentschieden": "0",
+    "unentschieden": "1",
     "niederlagen": "1",
-    "tore_plus": "2",
-    "tore_minus": "3",
-    "tordifferenz": "-1",
-    "punkte": "3"
+    "tore_plus": "6",
+    "tore_minus": "5",
+    "tordifferenz": "1",
+    "punkte": "4"
   },
   {
     "rang": "11",
