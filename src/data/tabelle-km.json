@@ -85,30 +85,6 @@
   },
   {
     "rang": "8",
-    "mannschaft": "SC Tisis 1b",
-    "spiele": "4",
-    "siege": "1",
-    "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "9",
-    "tore_minus": "11",
-    "tordifferenz": "-2",
-    "punkte": "4"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "FC Schruns Juniors",
-    "spiele": "4",
-    "siege": "1",
-    "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "8",
-    "tore_minus": "14",
-    "tordifferenz": "-6",
-    "punkte": "4"
-  },
-  {
-    "rang": "10",
     "mannschaft": "FC Koblach 1b",
     "spiele": "4",
     "siege": "1",
@@ -120,19 +96,55 @@
     "punkte": "4"
   },
   {
-    "rang": "11",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "3",
+    "rang": "9",
+    "mannschaft": "SC Tisis 1b",
+    "spiele": "4",
     "siege": "1",
-    "unentschieden": "0",
+    "unentschieden": "1",
     "niederlagen": "2",
-    "tore_plus": "4",
-    "tore_minus": "7",
-    "tordifferenz": "-3",
-    "punkte": "3"
+    "tore_plus": "9",
+    "tore_minus": "11",
+    "tordifferenz": "-2",
+    "punkte": "4"
+  },
+  {
+    "rang": "10",
+    "mannschaft": "FC Schruns Juniors",
+    "spiele": "4",
+    "siege": "1",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "8",
+    "tore_minus": "14",
+    "tordifferenz": "-6",
+    "punkte": "4"
+  },
+  {
+    "rang": "11",
+    "mannschaft": "FC Klostertal",
+    "spiele": "4",
+    "siege": "1",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "12",
+    "tore_minus": "12",
+    "tordifferenz": "0",
+    "punkte": "4"
   },
   {
     "rang": "12",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "4",
+    "siege": "1",
+    "unentschieden": "0",
+    "niederlagen": "3",
+    "tore_plus": "6",
+    "tore_minus": "14",
+    "tordifferenz": "-8",
+    "punkte": "3"
+  },
+  {
+    "rang": "13",
     "mannschaft": "FC Lustenau 1c",
     "spiele": "4",
     "siege": "1",
@@ -142,18 +154,6 @@
     "tore_minus": "24",
     "tordifferenz": "-13",
     "punkte": "3"
-  },
-  {
-    "rang": "13",
-    "mannschaft": "FC Klostertal",
-    "spiele": "3",
-    "siege": "0",
-    "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "5",
-    "tore_minus": "10",
-    "tordifferenz": "-5",
-    "punkte": "1"
   },
   {
     "rang": "14",
