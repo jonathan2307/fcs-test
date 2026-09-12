@@ -2,25 +2,25 @@
   {
     "rang": "1",
     "mannschaft": "FC Schlins Juniors",
-    "spiele": "4",
-    "siege": "3",
+    "spiele": "5",
+    "siege": "4",
     "unentschieden": "1",
     "niederlagen": "0",
-    "tore_plus": "17",
+    "tore_plus": "19",
     "tore_minus": "5",
-    "tordifferenz": "12",
-    "punkte": "10"
+    "tordifferenz": "14",
+    "punkte": "13"
   },
   {
     "rang": "2",
     "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "4",
+    "spiele": "5",
     "siege": "3",
     "unentschieden": "1",
-    "niederlagen": "0",
+    "niederlagen": "1",
     "tore_plus": "10",
-    "tore_minus": "4",
-    "tordifferenz": "6",
+    "tore_minus": "7",
+    "tordifferenz": "3",
     "punkte": "10"
   },
   {
@@ -61,18 +61,30 @@
   },
   {
     "rang": "6",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "4",
+    "mannschaft": "SC Tisis 1b",
+    "spiele": "5",
     "siege": "2",
     "unentschieden": "1",
-    "niederlagen": "1",
-    "tore_plus": "7",
-    "tore_minus": "6",
+    "niederlagen": "2",
+    "tore_plus": "11",
+    "tore_minus": "10",
     "tordifferenz": "1",
     "punkte": "7"
   },
   {
     "rang": "7",
+    "mannschaft": "FC Schruns Juniors",
+    "spiele": "5",
+    "siege": "2",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "11",
+    "tore_minus": "14",
+    "tordifferenz": "-3",
+    "punkte": "7"
+  },
+  {
+    "rang": "8",
     "mannschaft": "FC Lustenau 1c",
     "spiele": "5",
     "siege": "2",
@@ -84,7 +96,7 @@
     "punkte": "6"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "FC BW Feldkirch Juniors",
     "spiele": "4",
     "siege": "2",
@@ -96,75 +108,63 @@
     "punkte": "6"
   },
   {
-    "rang": "9",
+    "rang": "10",
     "mannschaft": "FC Koblach 1b",
-    "spiele": "4",
+    "spiele": "5",
     "siege": "1",
-    "unentschieden": "1",
+    "unentschieden": "2",
     "niederlagen": "2",
     "tore_plus": "7",
     "tore_minus": "9",
     "tordifferenz": "-2",
-    "punkte": "4"
-  },
-  {
-    "rang": "10",
-    "mannschaft": "SC Tisis 1b",
-    "spiele": "4",
-    "siege": "1",
-    "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "9",
-    "tore_minus": "11",
-    "tordifferenz": "-2",
-    "punkte": "4"
+    "punkte": "5"
   },
   {
     "rang": "11",
-    "mannschaft": "FC Schruns Juniors",
-    "spiele": "4",
+    "mannschaft": "FC Klostertal",
+    "spiele": "5",
     "siege": "1",
     "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "8",
-    "tore_minus": "14",
-    "tordifferenz": "-6",
+    "niederlagen": "3",
+    "tore_plus": "12",
+    "tore_minus": "13",
+    "tordifferenz": "-1",
     "punkte": "4"
   },
   {
     "rang": "12",
-    "mannschaft": "FC Klostertal",
+    "mannschaft": "RW Rankweil 1b",
     "spiele": "4",
     "siege": "1",
     "unentschieden": "1",
     "niederlagen": "2",
-    "tore_plus": "12",
-    "tore_minus": "12",
-    "tordifferenz": "0",
+    "tore_plus": "4",
+    "tore_minus": "8",
+    "tordifferenz": "-4",
     "punkte": "4"
   },
   {
     "rang": "13",
     "mannschaft": "SV Gaissau 1b",
-    "spiele": "4",
+    "spiele": "5",
     "siege": "1",
-    "unentschieden": "0",
+    "unentschieden": "1",
     "niederlagen": "3",
     "tore_plus": "6",
     "tore_minus": "14",
     "tordifferenz": "-8",
-    "punkte": "3"
+    "punkte": "4"
   },
   {
     "rang": "14",
     "mannschaft": "FC Götzis 1b",
-    "spiele": "4",
-    "siege": "0",
+    "spiele": "5",
+    "siege": "1",
     "unentschieden": "0",
     "niederlagen": "4",
-    "tore_plus": "4",
+    "tore_plus": "5",
     "tore_minus": "11",
-    "tordifferenz": "-7",
-    "punkte": "0"
+    "tordifferenz": "-6",
+    "punkte": "3"
   }
 ]
