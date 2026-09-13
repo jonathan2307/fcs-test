@@ -13,6 +13,18 @@
   },
   {
     "rang": "2",
+    "mannschaft": "FC Sulz 1b",
+    "spiele": "5",
+    "siege": "4",
+    "unentschieden": "0",
+    "niederlagen": "1",
+    "tore_plus": "21",
+    "tore_minus": "9",
+    "tordifferenz": "12",
+    "punkte": "12"
+  },
+  {
+    "rang": "3",
     "mannschaft": "SPG Großwalsertal 1b",
     "spiele": "5",
     "siege": "3",
@@ -24,43 +36,19 @@
     "punkte": "10"
   },
   {
-    "rang": "3",
-    "mannschaft": "FC Sulz 1b",
-    "spiele": "4",
-    "siege": "3",
-    "unentschieden": "0",
-    "niederlagen": "1",
-    "tore_plus": "16",
-    "tore_minus": "7",
-    "tordifferenz": "9",
-    "punkte": "9"
-  },
-  {
     "rang": "4",
     "mannschaft": "SCR Altach Future Team",
-    "spiele": "4",
+    "spiele": "5",
     "siege": "3",
     "unentschieden": "0",
-    "niederlagen": "1",
-    "tore_plus": "10",
-    "tore_minus": "9",
-    "tordifferenz": "1",
+    "niederlagen": "2",
+    "tore_plus": "12",
+    "tore_minus": "14",
+    "tordifferenz": "-2",
     "punkte": "9"
   },
   {
     "rang": "5",
-    "mannschaft": "FC Andelsbuch 1b",
-    "spiele": "5",
-    "siege": "2",
-    "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "13",
-    "tore_minus": "12",
-    "tordifferenz": "1",
-    "punkte": "7"
-  },
-  {
-    "rang": "6",
     "mannschaft": "SC Tisis 1b",
     "spiele": "5",
     "siege": "2",
@@ -68,6 +56,18 @@
     "niederlagen": "2",
     "tore_plus": "11",
     "tore_minus": "10",
+    "tordifferenz": "1",
+    "punkte": "7"
+  },
+  {
+    "rang": "6",
+    "mannschaft": "FC Andelsbuch 1b",
+    "spiele": "5",
+    "siege": "2",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "13",
+    "tore_minus": "12",
     "tordifferenz": "1",
     "punkte": "7"
   },
@@ -85,6 +85,18 @@
   },
   {
     "rang": "8",
+    "mannschaft": "RW Rankweil 1b",
+    "spiele": "5",
+    "siege": "2",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "6",
+    "tore_minus": "9",
+    "tordifferenz": "-3",
+    "punkte": "7"
+  },
+  {
+    "rang": "9",
     "mannschaft": "FC Lustenau 1c",
     "spiele": "5",
     "siege": "2",
@@ -96,19 +108,19 @@
     "punkte": "6"
   },
   {
-    "rang": "9",
+    "rang": "10",
     "mannschaft": "FC BW Feldkirch Juniors",
-    "spiele": "4",
+    "spiele": "5",
     "siege": "2",
     "unentschieden": "0",
-    "niederlagen": "2",
-    "tore_plus": "15",
-    "tore_minus": "11",
-    "tordifferenz": "4",
+    "niederlagen": "3",
+    "tore_plus": "16",
+    "tore_minus": "13",
+    "tordifferenz": "3",
     "punkte": "6"
   },
   {
-    "rang": "10",
+    "rang": "11",
     "mannschaft": "FC Koblach 1b",
     "spiele": "5",
     "siege": "1",
@@ -120,7 +132,7 @@
     "punkte": "5"
   },
   {
-    "rang": "11",
+    "rang": "12",
     "mannschaft": "FC Klostertal",
     "spiele": "5",
     "siege": "1",
@@ -129,18 +141,6 @@
     "tore_plus": "12",
     "tore_minus": "13",
     "tordifferenz": "-1",
-    "punkte": "4"
-  },
-  {
-    "rang": "12",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "4",
-    "siege": "1",
-    "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "4",
-    "tore_minus": "8",
-    "tordifferenz": "-4",
     "punkte": "4"
   },
   {
