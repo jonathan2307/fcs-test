@@ -26,13 +26,13 @@
   {
     "rang": "3",
     "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "5",
+    "spiele": "6",
     "siege": "3",
     "unentschieden": "1",
-    "niederlagen": "1",
-    "tore_plus": "10",
-    "tore_minus": "7",
-    "tordifferenz": "3",
+    "niederlagen": "2",
+    "tore_plus": "12",
+    "tore_minus": "11",
+    "tordifferenz": "1",
     "punkte": "10"
   },
   {
@@ -49,6 +49,18 @@
   },
   {
     "rang": "5",
+    "mannschaft": "FC Lustenau 1c",
+    "spiele": "6",
+    "siege": "3",
+    "unentschieden": "0",
+    "niederlagen": "3",
+    "tore_plus": "20",
+    "tore_minus": "27",
+    "tordifferenz": "-7",
+    "punkte": "9"
+  },
+  {
+    "rang": "6",
     "mannschaft": "SC Tisis 1b",
     "spiele": "5",
     "siege": "2",
@@ -60,7 +72,7 @@
     "punkte": "7"
   },
   {
-    "rang": "6",
+    "rang": "7",
     "mannschaft": "FC Andelsbuch 1b",
     "spiele": "5",
     "siege": "2",
@@ -72,7 +84,7 @@
     "punkte": "7"
   },
   {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "FC Schruns Juniors",
     "spiele": "5",
     "siege": "2",
@@ -84,7 +96,7 @@
     "punkte": "7"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "5",
     "siege": "2",
@@ -94,18 +106,6 @@
     "tore_minus": "9",
     "tordifferenz": "-3",
     "punkte": "7"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "FC Lustenau 1c",
-    "spiele": "5",
-    "siege": "2",
-    "unentschieden": "0",
-    "niederlagen": "3",
-    "tore_plus": "16",
-    "tore_minus": "25",
-    "tordifferenz": "-9",
-    "punkte": "6"
   },
   {
     "rang": "10",
@@ -133,6 +133,30 @@
   },
   {
     "rang": "12",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "6",
+    "siege": "1",
+    "unentschieden": "2",
+    "niederlagen": "3",
+    "tore_plus": "7",
+    "tore_minus": "15",
+    "tordifferenz": "-8",
+    "punkte": "5"
+  },
+  {
+    "rang": "13",
+    "mannschaft": "FC Götzis 1b",
+    "spiele": "6",
+    "siege": "1",
+    "unentschieden": "1",
+    "niederlagen": "4",
+    "tore_plus": "6",
+    "tore_minus": "12",
+    "tordifferenz": "-6",
+    "punkte": "4"
+  },
+  {
+    "rang": "14",
     "mannschaft": "FC Klostertal",
     "spiele": "5",
     "siege": "1",
@@ -142,29 +166,5 @@
     "tore_minus": "13",
     "tordifferenz": "-1",
     "punkte": "4"
-  },
-  {
-    "rang": "13",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "5",
-    "siege": "1",
-    "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "6",
-    "tore_minus": "14",
-    "tordifferenz": "-8",
-    "punkte": "4"
-  },
-  {
-    "rang": "14",
-    "mannschaft": "FC Götzis 1b",
-    "spiele": "5",
-    "siege": "1",
-    "unentschieden": "0",
-    "niederlagen": "4",
-    "tore_plus": "5",
-    "tore_minus": "11",
-    "tordifferenz": "-6",
-    "punkte": "3"
   }
 ]
