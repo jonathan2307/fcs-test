@@ -97,18 +97,30 @@
   },
   {
     "rang": "9",
-    "mannschaft": "FC Schruns Juniors",
-    "spiele": "5",
+    "mannschaft": "FC Klostertal",
+    "spiele": "6",
     "siege": "2",
     "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "11",
-    "tore_minus": "14",
-    "tordifferenz": "-3",
+    "niederlagen": "3",
+    "tore_plus": "15",
+    "tore_minus": "15",
+    "tordifferenz": "0",
     "punkte": "7"
   },
   {
     "rang": "10",
+    "mannschaft": "FC Schruns Juniors",
+    "spiele": "6",
+    "siege": "2",
+    "unentschieden": "1",
+    "niederlagen": "3",
+    "tore_plus": "13",
+    "tore_minus": "17",
+    "tordifferenz": "-4",
+    "punkte": "7"
+  },
+  {
+    "rang": "11",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "6",
     "siege": "2",
@@ -120,7 +132,7 @@
     "punkte": "7"
   },
   {
-    "rang": "11",
+    "rang": "12",
     "mannschaft": "FC BW Feldkirch Juniors",
     "spiele": "6",
     "siege": "2",
@@ -132,7 +144,7 @@
     "punkte": "6"
   },
   {
-    "rang": "12",
+    "rang": "13",
     "mannschaft": "SV Gaissau 1b",
     "spiele": "6",
     "siege": "1",
@@ -144,7 +156,7 @@
     "punkte": "5"
   },
   {
-    "rang": "13",
+    "rang": "14",
     "mannschaft": "FC Götzis 1b",
     "spiele": "6",
     "siege": "1",
@@ -153,18 +165,6 @@
     "tore_plus": "6",
     "tore_minus": "12",
     "tordifferenz": "-6",
-    "punkte": "4"
-  },
-  {
-    "rang": "14",
-    "mannschaft": "FC Klostertal",
-    "spiele": "5",
-    "siege": "1",
-    "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "12",
-    "tore_minus": "13",
-    "tordifferenz": "-1",
     "punkte": "4"
   }
 ]
