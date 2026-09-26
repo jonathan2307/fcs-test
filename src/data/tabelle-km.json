@@ -49,18 +49,30 @@
   },
   {
     "rang": "5",
-    "mannschaft": "FC Lustenau 1c",
-    "spiele": "6",
+    "mannschaft": "FC Klostertal",
+    "spiele": "7",
     "siege": "3",
-    "unentschieden": "0",
+    "unentschieden": "1",
     "niederlagen": "3",
-    "tore_plus": "20",
-    "tore_minus": "27",
-    "tordifferenz": "-7",
-    "punkte": "9"
+    "tore_plus": "19",
+    "tore_minus": "17",
+    "tordifferenz": "2",
+    "punkte": "10"
   },
   {
     "rang": "6",
+    "mannschaft": "FC Lustenau 1c",
+    "spiele": "7",
+    "siege": "3",
+    "unentschieden": "0",
+    "niederlagen": "4",
+    "tore_plus": "22",
+    "tore_minus": "31",
+    "tordifferenz": "-9",
+    "punkte": "9"
+  },
+  {
+    "rang": "7",
     "mannschaft": "FC Andelsbuch 1b",
     "spiele": "6",
     "siege": "2",
@@ -72,7 +84,7 @@
     "punkte": "8"
   },
   {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "FC Koblach 1b",
     "spiele": "6",
     "siege": "2",
@@ -84,7 +96,7 @@
     "punkte": "8"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "SC Tisis 1b",
     "spiele": "6",
     "siege": "2",
@@ -93,18 +105,6 @@
     "tore_plus": "14",
     "tore_minus": "15",
     "tordifferenz": "-1",
-    "punkte": "7"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "FC Klostertal",
-    "spiele": "6",
-    "siege": "2",
-    "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "15",
-    "tore_minus": "15",
-    "tordifferenz": "0",
     "punkte": "7"
   },
   {
