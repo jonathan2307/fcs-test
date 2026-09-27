@@ -2,41 +2,53 @@
   {
     "rang": "1",
     "mannschaft": "FC Schlins Juniors",
-    "spiele": "6",
-    "siege": "5",
+    "spiele": "7",
+    "siege": "6",
     "unentschieden": "1",
     "niederlagen": "0",
-    "tore_plus": "21",
-    "tore_minus": "5",
-    "tordifferenz": "16",
-    "punkte": "16"
+    "tore_plus": "23",
+    "tore_minus": "6",
+    "tordifferenz": "17",
+    "punkte": "19"
   },
   {
     "rang": "2",
     "mannschaft": "FC Sulz 1b",
-    "spiele": "6",
+    "spiele": "7",
     "siege": "5",
     "unentschieden": "0",
-    "niederlagen": "1",
-    "tore_plus": "25",
-    "tore_minus": "9",
-    "tordifferenz": "16",
+    "niederlagen": "2",
+    "tore_plus": "26",
+    "tore_minus": "11",
+    "tordifferenz": "15",
     "punkte": "15"
   },
   {
     "rang": "3",
-    "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "6",
+    "mannschaft": "FC Koblach 1b",
+    "spiele": "7",
     "siege": "3",
-    "unentschieden": "1",
+    "unentschieden": "2",
     "niederlagen": "2",
-    "tore_plus": "12",
-    "tore_minus": "11",
+    "tore_plus": "14",
+    "tore_minus": "13",
     "tordifferenz": "1",
-    "punkte": "10"
+    "punkte": "11"
   },
   {
     "rang": "4",
+    "mannschaft": "FC Schruns Juniors",
+    "spiele": "7",
+    "siege": "3",
+    "unentschieden": "1",
+    "niederlagen": "3",
+    "tore_plus": "18",
+    "tore_minus": "18",
+    "tordifferenz": "0",
+    "punkte": "10"
+  },
+  {
+    "rang": "5",
     "mannschaft": "SCR Altach Future Team",
     "spiele": "6",
     "siege": "3",
@@ -48,7 +60,19 @@
     "punkte": "10"
   },
   {
-    "rang": "5",
+    "rang": "6",
+    "mannschaft": "SPG Großwalsertal 1b",
+    "spiele": "6",
+    "siege": "3",
+    "unentschieden": "1",
+    "niederlagen": "2",
+    "tore_plus": "12",
+    "tore_minus": "11",
+    "tordifferenz": "1",
+    "punkte": "10"
+  },
+  {
+    "rang": "7",
     "mannschaft": "FC Klostertal",
     "spiele": "7",
     "siege": "3",
@@ -60,7 +84,19 @@
     "punkte": "10"
   },
   {
-    "rang": "6",
+    "rang": "8",
+    "mannschaft": "SC Tisis 1b",
+    "spiele": "7",
+    "siege": "3",
+    "unentschieden": "1",
+    "niederlagen": "3",
+    "tore_plus": "17",
+    "tore_minus": "15",
+    "tordifferenz": "2",
+    "punkte": "10"
+  },
+  {
+    "rang": "9",
     "mannschaft": "FC Lustenau 1c",
     "spiele": "7",
     "siege": "3",
@@ -72,7 +108,7 @@
     "punkte": "9"
   },
   {
-    "rang": "7",
+    "rang": "10",
     "mannschaft": "FC Andelsbuch 1b",
     "spiele": "6",
     "siege": "2",
@@ -82,42 +118,6 @@
     "tore_minus": "12",
     "tordifferenz": "1",
     "punkte": "8"
-  },
-  {
-    "rang": "8",
-    "mannschaft": "FC Koblach 1b",
-    "spiele": "6",
-    "siege": "2",
-    "unentschieden": "2",
-    "niederlagen": "2",
-    "tore_plus": "12",
-    "tore_minus": "12",
-    "tordifferenz": "0",
-    "punkte": "8"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "SC Tisis 1b",
-    "spiele": "6",
-    "siege": "2",
-    "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "14",
-    "tore_minus": "15",
-    "tordifferenz": "-1",
-    "punkte": "7"
-  },
-  {
-    "rang": "10",
-    "mannschaft": "FC Schruns Juniors",
-    "spiele": "6",
-    "siege": "2",
-    "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "13",
-    "tore_minus": "17",
-    "tordifferenz": "-4",
-    "punkte": "7"
   },
   {
     "rang": "11",
@@ -134,37 +134,37 @@
   {
     "rang": "12",
     "mannschaft": "FC BW Feldkirch Juniors",
-    "spiele": "6",
+    "spiele": "7",
     "siege": "2",
     "unentschieden": "0",
-    "niederlagen": "4",
+    "niederlagen": "5",
     "tore_plus": "16",
-    "tore_minus": "15",
-    "tordifferenz": "1",
+    "tore_minus": "18",
+    "tordifferenz": "-2",
     "punkte": "6"
   },
   {
     "rang": "13",
     "mannschaft": "SV Gaissau 1b",
-    "spiele": "6",
+    "spiele": "7",
     "siege": "1",
     "unentschieden": "2",
-    "niederlagen": "3",
-    "tore_plus": "7",
-    "tore_minus": "15",
-    "tordifferenz": "-8",
+    "niederlagen": "4",
+    "tore_plus": "8",
+    "tore_minus": "20",
+    "tordifferenz": "-12",
     "punkte": "5"
   },
   {
     "rang": "14",
     "mannschaft": "FC Götzis 1b",
-    "spiele": "6",
+    "spiele": "7",
     "siege": "1",
     "unentschieden": "1",
-    "niederlagen": "4",
-    "tore_plus": "6",
-    "tore_minus": "12",
-    "tordifferenz": "-6",
+    "niederlagen": "5",
+    "tore_plus": "7",
+    "tore_minus": "14",
+    "tordifferenz": "-7",
     "punkte": "4"
   }
 ]
