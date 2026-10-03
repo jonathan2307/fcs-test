@@ -110,17 +110,29 @@
   {
     "rang": "10",
     "mannschaft": "FC Lustenau 1c",
-    "spiele": "7",
+    "spiele": "8",
     "siege": "3",
     "unentschieden": "0",
-    "niederlagen": "4",
-    "tore_plus": "22",
-    "tore_minus": "31",
-    "tordifferenz": "-9",
+    "niederlagen": "5",
+    "tore_plus": "23",
+    "tore_minus": "36",
+    "tordifferenz": "-13",
     "punkte": "9"
   },
   {
     "rang": "11",
+    "mannschaft": "SV Gaissau 1b",
+    "spiele": "8",
+    "siege": "2",
+    "unentschieden": "2",
+    "niederlagen": "4",
+    "tore_plus": "13",
+    "tore_minus": "21",
+    "tordifferenz": "-8",
+    "punkte": "8"
+  },
+  {
+    "rang": "12",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "7",
     "siege": "2",
@@ -132,7 +144,7 @@
     "punkte": "7"
   },
   {
-    "rang": "12",
+    "rang": "13",
     "mannschaft": "FC BW Feldkirch Juniors",
     "spiele": "7",
     "siege": "2",
@@ -142,18 +154,6 @@
     "tore_minus": "18",
     "tordifferenz": "-2",
     "punkte": "6"
-  },
-  {
-    "rang": "13",
-    "mannschaft": "SV Gaissau 1b",
-    "spiele": "7",
-    "siege": "1",
-    "unentschieden": "2",
-    "niederlagen": "4",
-    "tore_plus": "8",
-    "tore_minus": "20",
-    "tordifferenz": "-12",
-    "punkte": "5"
   },
   {
     "rang": "14",
