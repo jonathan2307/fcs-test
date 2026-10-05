@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "FC Schlins Juniors",
-    "spiele": "7",
-    "siege": "6",
+    "spiele": "8",
+    "siege": "7",
     "unentschieden": "1",
     "niederlagen": "0",
-    "tore_plus": "23",
-    "tore_minus": "6",
-    "tordifferenz": "17",
-    "punkte": "19"
+    "tore_plus": "25",
+    "tore_minus": "7",
+    "tordifferenz": "18",
+    "punkte": "22"
   },
   {
     "rang": "2",
@@ -25,30 +25,42 @@
   },
   {
     "rang": "3",
-    "mannschaft": "SCR Altach Future Team",
-    "spiele": "7",
+    "mannschaft": "FC Klostertal",
+    "spiele": "8",
     "siege": "4",
     "unentschieden": "1",
-    "niederlagen": "2",
-    "tore_plus": "18",
-    "tore_minus": "14",
-    "tordifferenz": "4",
+    "niederlagen": "3",
+    "tore_plus": "25",
+    "tore_minus": "18",
+    "tordifferenz": "7",
     "punkte": "13"
   },
   {
     "rang": "4",
-    "mannschaft": "FC Andelsbuch 1b",
-    "spiele": "7",
-    "siege": "3",
-    "unentschieden": "2",
-    "niederlagen": "2",
-    "tore_plus": "15",
-    "tore_minus": "13",
-    "tordifferenz": "2",
-    "punkte": "11"
+    "mannschaft": "SCR Altach Future Team",
+    "spiele": "8",
+    "siege": "4",
+    "unentschieden": "1",
+    "niederlagen": "3",
+    "tore_plus": "19",
+    "tore_minus": "20",
+    "tordifferenz": "-1",
+    "punkte": "13"
   },
   {
     "rang": "5",
+    "mannschaft": "FC Andelsbuch 1b",
+    "spiele": "8",
+    "siege": "3",
+    "unentschieden": "2",
+    "niederlagen": "3",
+    "tore_plus": "16",
+    "tore_minus": "15",
+    "tordifferenz": "1",
+    "punkte": "11"
+  },
+  {
+    "rang": "6",
     "mannschaft": "FC Koblach 1b",
     "spiele": "8",
     "siege": "3",
@@ -58,18 +70,6 @@
     "tore_minus": "17",
     "tordifferenz": "-2",
     "punkte": "11"
-  },
-  {
-    "rang": "6",
-    "mannschaft": "SC Tisis Juniors",
-    "spiele": "8",
-    "siege": "3",
-    "unentschieden": "1",
-    "niederlagen": "4",
-    "tore_plus": "18",
-    "tore_minus": "20",
-    "tordifferenz": "-2",
-    "punkte": "10"
   },
   {
     "rang": "7",
@@ -85,6 +85,18 @@
   },
   {
     "rang": "8",
+    "mannschaft": "SC Tisis Juniors",
+    "spiele": "8",
+    "siege": "3",
+    "unentschieden": "1",
+    "niederlagen": "4",
+    "tore_plus": "18",
+    "tore_minus": "20",
+    "tordifferenz": "-2",
+    "punkte": "10"
+  },
+  {
+    "rang": "9",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "8",
     "siege": "3",
@@ -93,18 +105,6 @@
     "tore_plus": "12",
     "tore_minus": "17",
     "tordifferenz": "-5",
-    "punkte": "10"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "FC Klostertal",
-    "spiele": "7",
-    "siege": "3",
-    "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "19",
-    "tore_minus": "17",
-    "tordifferenz": "2",
     "punkte": "10"
   },
   {
