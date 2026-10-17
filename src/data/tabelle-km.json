@@ -14,25 +14,25 @@
   {
     "rang": "2",
     "mannschaft": "FC Sulz 1b",
-    "spiele": "9",
-    "siege": "7",
+    "spiele": "10",
+    "siege": "8",
     "unentschieden": "0",
     "niederlagen": "2",
-    "tore_plus": "32",
+    "tore_plus": "36",
     "tore_minus": "12",
-    "tordifferenz": "20",
-    "punkte": "21"
+    "tordifferenz": "24",
+    "punkte": "24"
   },
   {
     "rang": "3",
     "mannschaft": "SCR Altach Future Team",
-    "spiele": "9",
+    "spiele": "10",
     "siege": "5",
     "unentschieden": "1",
-    "niederlagen": "3",
-    "tore_plus": "24",
-    "tore_minus": "22",
-    "tordifferenz": "2",
+    "niederlagen": "4",
+    "tore_plus": "25",
+    "tore_minus": "24",
+    "tordifferenz": "1",
     "punkte": "16"
   },
   {
@@ -61,6 +61,18 @@
   },
   {
     "rang": "6",
+    "mannschaft": "FC Schruns Juniors",
+    "spiele": "10",
+    "siege": "4",
+    "unentschieden": "2",
+    "niederlagen": "4",
+    "tore_plus": "26",
+    "tore_minus": "21",
+    "tordifferenz": "5",
+    "punkte": "14"
+  },
+  {
+    "rang": "7",
     "mannschaft": "FC Klostertal",
     "spiele": "9",
     "siege": "4",
@@ -72,7 +84,7 @@
     "punkte": "13"
   },
   {
-    "rang": "7",
+    "rang": "8",
     "mannschaft": "SC Tisis Juniors",
     "spiele": "10",
     "siege": "4",
@@ -84,43 +96,43 @@
     "punkte": "13"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "FC Koblach 1b",
-    "spiele": "9",
+    "spiele": "10",
     "siege": "3",
     "unentschieden": "3",
-    "niederlagen": "3",
+    "niederlagen": "4",
     "tore_plus": "16",
-    "tore_minus": "18",
-    "tordifferenz": "-2",
+    "tore_minus": "22",
+    "tordifferenz": "-6",
     "punkte": "12"
   },
   {
-    "rang": "9",
-    "mannschaft": "FC Schruns Juniors",
-    "spiele": "9",
+    "rang": "10",
+    "mannschaft": "FC Götzis 1b",
+    "spiele": "10",
     "siege": "3",
     "unentschieden": "2",
-    "niederlagen": "4",
-    "tore_plus": "20",
-    "tore_minus": "21",
-    "tordifferenz": "-1",
+    "niederlagen": "5",
+    "tore_plus": "14",
+    "tore_minus": "19",
+    "tordifferenz": "-5",
     "punkte": "11"
   },
   {
-    "rang": "10",
+    "rang": "11",
     "mannschaft": "FC Lustenau 1c",
-    "spiele": "9",
+    "spiele": "10",
     "siege": "3",
     "unentschieden": "1",
-    "niederlagen": "5",
+    "niederlagen": "6",
     "tore_plus": "26",
-    "tore_minus": "39",
-    "tordifferenz": "-13",
+    "tore_minus": "45",
+    "tordifferenz": "-19",
     "punkte": "10"
   },
   {
-    "rang": "11",
+    "rang": "12",
     "mannschaft": "SPG Großwalsertal 1b",
     "spiele": "10",
     "siege": "3",
@@ -132,7 +144,7 @@
     "punkte": "10"
   },
   {
-    "rang": "12",
+    "rang": "13",
     "mannschaft": "FC BW Feldkirch Juniors",
     "spiele": "9",
     "siege": "3",
@@ -142,18 +154,6 @@
     "tore_minus": "20",
     "tordifferenz": "0",
     "punkte": "9"
-  },
-  {
-    "rang": "13",
-    "mannschaft": "FC Götzis 1b",
-    "spiele": "9",
-    "siege": "2",
-    "unentschieden": "2",
-    "niederlagen": "5",
-    "tore_plus": "12",
-    "tore_minus": "18",
-    "tordifferenz": "-6",
-    "punkte": "8"
   },
   {
     "rang": "14",
