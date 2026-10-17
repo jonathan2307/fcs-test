@@ -37,6 +37,18 @@
   },
   {
     "rang": "4",
+    "mannschaft": "RW Rankweil 1b",
+    "spiele": "10",
+    "siege": "5",
+    "unentschieden": "1",
+    "niederlagen": "4",
+    "tore_plus": "23",
+    "tore_minus": "20",
+    "tordifferenz": "3",
+    "punkte": "16"
+  },
+  {
+    "rang": "5",
     "mannschaft": "FC Andelsbuch 1b",
     "spiele": "9",
     "siege": "4",
@@ -46,18 +58,6 @@
     "tore_minus": "15",
     "tordifferenz": "2",
     "punkte": "14"
-  },
-  {
-    "rang": "5",
-    "mannschaft": "RW Rankweil 1b",
-    "spiele": "9",
-    "siege": "4",
-    "unentschieden": "1",
-    "niederlagen": "4",
-    "tore_plus": "17",
-    "tore_minus": "19",
-    "tordifferenz": "-2",
-    "punkte": "13"
   },
   {
     "rang": "6",
@@ -73,6 +73,18 @@
   },
   {
     "rang": "7",
+    "mannschaft": "SC Tisis Juniors",
+    "spiele": "10",
+    "siege": "4",
+    "unentschieden": "1",
+    "niederlagen": "5",
+    "tore_plus": "22",
+    "tore_minus": "23",
+    "tordifferenz": "-1",
+    "punkte": "13"
+  },
+  {
+    "rang": "8",
     "mannschaft": "FC Koblach 1b",
     "spiele": "9",
     "siege": "3",
@@ -84,7 +96,7 @@
     "punkte": "12"
   },
   {
-    "rang": "8",
+    "rang": "9",
     "mannschaft": "FC Schruns Juniors",
     "spiele": "9",
     "siege": "3",
@@ -94,18 +106,6 @@
     "tore_minus": "21",
     "tordifferenz": "-1",
     "punkte": "11"
-  },
-  {
-    "rang": "9",
-    "mannschaft": "SC Tisis Juniors",
-    "spiele": "9",
-    "siege": "3",
-    "unentschieden": "1",
-    "niederlagen": "5",
-    "tore_plus": "18",
-    "tore_minus": "21",
-    "tordifferenz": "-3",
-    "punkte": "10"
   },
   {
     "rang": "10",
@@ -122,13 +122,13 @@
   {
     "rang": "11",
     "mannschaft": "SPG Großwalsertal 1b",
-    "spiele": "9",
+    "spiele": "10",
     "siege": "3",
     "unentschieden": "1",
-    "niederlagen": "5",
-    "tore_plus": "16",
-    "tore_minus": "25",
-    "tordifferenz": "-9",
+    "niederlagen": "6",
+    "tore_plus": "18",
+    "tore_minus": "29",
+    "tordifferenz": "-11",
     "punkte": "10"
   },
   {
@@ -158,13 +158,13 @@
   {
     "rang": "14",
     "mannschaft": "SV Gaissau 1b",
-    "spiele": "9",
+    "spiele": "10",
     "siege": "2",
     "unentschieden": "2",
-    "niederlagen": "5",
-    "tore_plus": "15",
-    "tore_minus": "26",
-    "tordifferenz": "-11",
+    "niederlagen": "6",
+    "tore_plus": "16",
+    "tore_minus": "32",
+    "tordifferenz": "-16",
     "punkte": "8"
   }
 ]
