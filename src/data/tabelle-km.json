@@ -2,14 +2,14 @@
   {
     "rang": "1",
     "mannschaft": "FC Schlins Juniors",
-    "spiele": "9",
-    "siege": "8",
+    "spiele": "10",
+    "siege": "9",
     "unentschieden": "1",
     "niederlagen": "0",
-    "tore_plus": "28",
+    "tore_plus": "29",
     "tore_minus": "9",
-    "tordifferenz": "19",
-    "punkte": "25"
+    "tordifferenz": "20",
+    "punkte": "28"
   },
   {
     "rang": "2",
@@ -25,6 +25,18 @@
   },
   {
     "rang": "3",
+    "mannschaft": "FC Andelsbuch 1b",
+    "spiele": "10",
+    "siege": "5",
+    "unentschieden": "2",
+    "niederlagen": "3",
+    "tore_plus": "19",
+    "tore_minus": "16",
+    "tordifferenz": "3",
+    "punkte": "17"
+  },
+  {
+    "rang": "4",
     "mannschaft": "SCR Altach Future Team",
     "spiele": "10",
     "siege": "5",
@@ -36,7 +48,7 @@
     "punkte": "16"
   },
   {
-    "rang": "4",
+    "rang": "5",
     "mannschaft": "RW Rankweil 1b",
     "spiele": "10",
     "siege": "5",
@@ -46,18 +58,6 @@
     "tore_minus": "20",
     "tordifferenz": "3",
     "punkte": "16"
-  },
-  {
-    "rang": "5",
-    "mannschaft": "FC Andelsbuch 1b",
-    "spiele": "9",
-    "siege": "4",
-    "unentschieden": "2",
-    "niederlagen": "3",
-    "tore_plus": "17",
-    "tore_minus": "15",
-    "tordifferenz": "2",
-    "punkte": "14"
   },
   {
     "rang": "6",
@@ -74,13 +74,13 @@
   {
     "rang": "7",
     "mannschaft": "FC Klostertal",
-    "spiele": "9",
+    "spiele": "10",
     "siege": "4",
     "unentschieden": "1",
-    "niederlagen": "4",
+    "niederlagen": "5",
     "tore_plus": "27",
-    "tore_minus": "23",
-    "tordifferenz": "4",
+    "tore_minus": "24",
+    "tordifferenz": "3",
     "punkte": "13"
   },
   {
@@ -146,13 +146,13 @@
   {
     "rang": "13",
     "mannschaft": "FC BW Feldkirch Juniors",
-    "spiele": "9",
+    "spiele": "10",
     "siege": "3",
     "unentschieden": "0",
-    "niederlagen": "6",
-    "tore_plus": "20",
-    "tore_minus": "20",
-    "tordifferenz": "0",
+    "niederlagen": "7",
+    "tore_plus": "21",
+    "tore_minus": "22",
+    "tordifferenz": "-1",
     "punkte": "9"
   },
   {
